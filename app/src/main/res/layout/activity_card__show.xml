@@ -1,0 +1,136 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:layout_weight="1.0"
+    tools:context="com.zerothtech.www.gre.Card_Show">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:id="@+id/linear2"
+        android:layout_weight="0.5">
+
+        <!--main wordload-->
+        <TextView
+            android:id="@+id/textviewSyn"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:textColor="#483D8B"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:background="@drawable/curved_textview"
+            android:layout_centerHorizontal="true"
+            android:text="Question"
+            />
+        <TextView
+            android:id="@+id/TextViewAnswer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:textColor="#483D8B"
+            android:alpha="0"
+            android:background="@drawable/curved_textview"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:text="Question\nAnswer"/>
+
+
+
+
+
+
+
+
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="0.1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/check"
+            android:background="#fff"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text="Check it"
+            android:textSize="18dp"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="0.2">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/prev"
+            android:background="#fff"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.3"
+            android:text="Previous"
+            android:textSize="18dp"
+            />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/star"
+            android:background="#fff"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.3"
+            android:text="Star it"
+            android:textSize="18dp"
+            />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nextSyn"
+            android:layout_gravity="center"
+            android:text="Next"
+            android:layout_marginLeft="10dp"
+            android:background="#fff"
+            android:layout_weight="0.3"
+            android:textSize="18dp"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

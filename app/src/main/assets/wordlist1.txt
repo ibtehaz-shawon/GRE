@@ -1,0 +1,416 @@
+{
+    "WordList1": [
+        {
+            
+            "Word": "Abhor",
+            "Synonym": "hate"
+        },
+        {
+            "Word": "Bigot",
+            "Synonym": "narrow-minded, prejudiced person"
+        },
+
+        {
+            "Word": "Counterfeit",
+            "Synonym": "fake; false"
+        },
+      
+        {
+            "Word": "Enfranchise",
+            "Synonym": "give voting rights"
+        },
+        
+        {
+            "Word": "Hamper",
+            "Synonym": "hinder; obstruct"
+        },
+        
+        {
+            "Word": "Kindle",
+            "Synonym": "to start a fire"
+        },
+        
+        {
+            "Word": "Noxious",
+            "Synonym": "harmful; poisonous; lethal"
+        },
+        
+        {
+            "Word": "Placid",
+            "Synonym": "calm; peaceful"
+        },
+        
+        {
+            "Word": "Remuneration",
+            "Synonym": "payment for work done"
+        },
+        
+        {
+            "Word": "Talisman",
+            "Synonym": "lucky charm"
+        },
+        {
+            "Word": "Abrasive",
+            "Synonym": "rough; coarse; harsh"
+        },
+
+        {
+            "Word": "Bilk",
+            "Synonym": "cheat; defraud"
+        },
+        {
+            "Word": "Covert",
+            "Synonym": "hidden; undercover"
+        },
+
+         {
+            "Word": "Engender",
+            "Synonym": "cause"
+        },
+
+        {
+            "Word": "Hangar",
+            "Synonym": "storage area (like garage) for a plane"
+        },
+        {
+            "Word": "Knotty",
+            "Synonym": "complex; difficult to solve"
+        },
+        {
+            "Word": "Nuance",
+            "Synonym": "something subtle; a fine shade of meaning"
+        },
+        {
+            "Word": "Plagiarism",
+            "Synonym": "taking credit for someone else's writing or ideas"
+        },
+        {
+            "Word": "Renown",
+            "Synonym": "fame"
+        },
+        {
+            "Word": "Tangent",
+            "Synonym": "going off the main subject"
+        },
+        {
+            "Word":"Abasement",
+            "Synonym":"humiliation, degradation"
+        },
+        {
+            "Word":"Billowing",
+            "Synonym":"swelling, fluttering, waving"
+        },
+        {
+            "Word":"Cower",
+            "Synonym":"recoil in fear or servility, shrink away from"
+        },
+        {
+            "Word":"Enhance",
+            "Synonym":"improve, make better or clearer"
+        },
+        {
+            "Word":"Harangue",
+            "Synonym":"noisy, attacking speech"
+        },
+        {
+            "Word":"Labyrinth",
+            "Synonym":"a maze"
+        },
+        {
+            "Word":"Nullify",
+            "Synonym":"to counter, make unimportant"
+        },
+        {
+            "Word":"Plaintiff",
+            "Synonym":"petitioner (in court of law)"
+        },
+        {
+            "Word":"Replete",
+            "Synonym":"full"
+        },
+        {
+            "Word":"Tangible",
+            "Synonym":"can be touched"
+        },
+        {
+            "Word":"Abrogate",
+            "Synonym":"cancel, deny, repeal"
+        },
+        {
+            "Word":"Blasphemy",
+            "Synonym":"speech which offends religious sentiments"
+        },
+        {
+            "Word":"Credible",
+            "Synonym":"believable"
+        },
+        {
+            "Word":"Enigma",
+            "Synonym":"puzzle, mystery"
+        },
+        {
+            "Word":"Harbingers",
+            "Synonym":"indicators, bringers of warnings"
+        },
+        {
+            "Word":"Labyrinthine",
+            "Synonym":"complicated, highly convoluted"
+        },
+        {
+            "Word":"Nuzzle",
+            "Synonym":"cuddle, snuggle"
+        },
+        {
+            "Word":"Plaudit",
+            "Synonym":"statement giving strong praise"
+        },
+        {
+            "Word":"Reprehensible",
+            "Synonym":"shameful, very bad"
+        },
+        {
+            "Word":"Tardy",
+            "Synonym":"slow, late, overdue, delayed"
+        },
+        {
+            "Word":"Absolution",
+            "Synonym":"forgiveness, pardon, release"
+        },
+        {
+            "Word":"Blatant",
+            "Synonym":"obvious"
+        },
+        {
+            "Word":"Creditable",
+            "Synonym":"praiseworthy"
+        },
+        {
+            "Word":"Ensconce",
+            "Synonym":"establish firmly in a position"
+        },
+        {
+            "Word":"Hasten",
+            "Synonym":"hurry, accelerate; rush"
+        },
+        {
+            "Word":"Laceration",
+            "Synonym":"a cut"
+        },
+        {
+            "Word":"Obdurate",
+            "Synonym":"stubborn"
+        },
+        {
+            "Word":"Plausible",
+            "Synonym":"can be believed, reasonable"
+        },
+        {
+            "Word":"Reprieve",
+            "Synonym":"a respite, postponement of a sentence"
+        },
+        {
+            "Word":"Tawdry",
+            "Synonym":"of little value, gaudy"
+        },
+        {
+            "Word":"Abstain",
+            "Synonym":"desist, go without, withdraw"
+        },
+        {
+            "Word":"Blighted",
+            "Synonym":"damaged, destroyed, ruined"
+        },
+        {
+            "Word":"Credulous",
+            "Synonym":"gullible, ready to believe anything"
+        },
+        {
+            "Word":"Enshroud",
+            "Synonym":"cover"
+        },
+        {
+            "Word":"Haughtiness",
+            "Synonym":"arrogance, pride"
+        },
+        {
+            "Word":"Lachrymose",
+            "Synonym":"tearful, sad"
+        },
+        {
+            "Word":"Obfuscate",
+            "Synonym":"deliberately make something difficult to understand"
+        },
+        {
+            "Word":"Plethora",
+            "Synonym":"an excess"
+        },
+        {
+            "Word":"Repudiate",
+            "Synonym":"shun; eschew"
+        },
+        {
+            "Word":"Tedium",
+            "Synonym":"boredom"
+        },
+        {
+            "Word":"Abstemious",
+            "Synonym":"self denying, refraining from indulging"
+        },
+        {
+            "Word":"Blithe",
+            "Synonym":"free-spirited, carefree"
+        },
+        {
+            "Word":"Crepuscular",
+            "Synonym":"active at dawn and dusk"
+        },
+        {
+            "Word":"Enunciation",
+            "Synonym":"clear pronunciation, accent, articulation"
+        },
+        {
+            "Word":"Headstrong",
+            "Synonym":"stubborn, willful"
+        },
+        {
+            "Word":"Lackluster",
+            "Synonym":"dull, monotonous, bland"
+        },
+        {
+            "Word":"Objective",
+            "Synonym":"unbiased, not subjective"
+        },
+        {
+            "Word":"Pliable",
+            "Synonym":"flexible, not stubborn"
+        },
+        {
+            "Word":"Rescind",
+            "Synonym":"retract, repeal"
+        },
+        {
+            "Word":"Temper",
+            "Synonym":"to moderate, soften"
+        },
+        {
+            "Word":"Abstruse",
+            "Synonym":"difficult to understand, obscure"
+        },
+        {
+            "Word":"Blunderbuss",
+            "Synonym":"1. ancient weapon (type of gun); 2. a clumsy person"
+        },
+        {
+            "Word":"Cringe",
+            "Synonym":"recoil, flinch, shy away"
+        },
+        {
+            "Word":"Envenom",
+            "Synonym":"to cause bitterness and bad feeling"
+        },
+        {
+            "Word":"Hedonism",
+            "Synonym":"self indulgence, pleasure-seeking"
+        },
+        {
+            "Word":"Laconic",
+            "Synonym":"using few words, brief, to the point"
+        },
+        {
+            "Word":"Oblique",
+            "Synonym":"indirect, slanting"
+        },
+        {
+            "Word":"Plumage",
+            "Synonym":"feathers of a bird"
+        },
+        {
+            "Word":"Resignation",
+            "Synonym":"acceptance of fate"
+        },
+        {
+            "Word":"Tenacious",
+            "Synonym":"stubborn, resolute, holding firm to a purpose"
+        },
+        {
+            "Word":"Accolade",
+            "Synonym":"tribute, honor, praise"
+        },
+        {
+            "Word":"Bolster",
+            "Synonym":"support, prop up"
+        },
+        {
+            "Word":"Cryptic",
+            "Synonym":"puzzling, enigmatic"
+        },
+        {
+            "Word":"Ephemeral",
+            "Synonym":"short-lived"
+        },
+        {
+            "Word":"Hedonist",
+            "Synonym":"a pleasure seeker"
+        },
+        {
+            "Word":"Lamentation",
+            "Synonym":"expression of regret or sorrow"
+        },
+        {
+            "Word":"Obliterate",
+            "Synonym":"destroy, demolish, eradicate"
+        },
+        {
+            "Word":"Plummet",
+            "Synonym":"fall suddenly and steeply"
+        },
+        {
+            "Word":"Resolution",
+            "Synonym":"determination"
+        },
+        {
+            "Word":"Tentative",
+            "Synonym":"not certain"
+        },
+        {
+            "Word":"Acquiesce",
+            "Synonym":"to agree to; give in to"
+        },
+        {
+            "Word":"Bombast",
+            "Synonym":"arrogant, pompous language"
+        },
+        {
+            "Word":"Curtail",
+            "Synonym":"cut short"
+        },
+        {
+            "Word":"Epicure",
+            "Synonym":"someone who appreciates good food and drink"
+        },
+        {
+            "Word":"Heed",
+            "Synonym":"listen to"
+        },
+        {
+            "Word":"Lampoon",
+            "Synonym":"ridicule, spoof"
+        },
+        {
+            "Word":"Oblivious",
+            "Synonym":"totally unaware"
+        },
+        {
+            "Word":"Podium",
+            "Synonym":"raised platform"
+        },
+        {
+            "Word":"Resonant",
+            "Synonym":"echoing"
+        },
+        {
+            "Word":"Tenuous",
+            "Synonym":"flimsy, not solid"
+        }
+    ]
+}

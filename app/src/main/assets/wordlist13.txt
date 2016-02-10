@@ -1,0 +1,411 @@
+{
+    "WordList3": [
+        {
+            
+            "Word": "Alleviated",
+            "Synonym": "made less severe [alleviation (n); alleviate (v)]"
+        },
+        {
+            "Word": "Apostrophe",
+            "Synonym": "1. punctuation mark; 2. appeal to someone not present (a figure of speech)"
+        },
+        {
+            "Word": "Centurion",
+            "Synonym": "roman soldier (commander of a company of 100 soldiers)"
+        },
+        {
+            "Word": "Emollient",
+            "Synonym": "softening (a); something which softens (n)"
+        },
+        {
+            "Word": "Fusillade",
+            "Synonym": "long burst of gunfire"
+        },
+        {
+            "Word": "Inerrancy",
+            "Synonym": "infallibility; inability to make mistakes [inerrant (a)]"
+        },
+        {
+            "Word": "Mince",
+            "Synonym": "
+1. chop into small pieces; 2. walk with tiny steps, 3. speak in an affected manner"
+        },
+        {
+            "Word": "Palpate",
+            "Synonym": "medical term meaning to examine with the hands"
+        },
+        {
+            "Word": "Platitude",
+            "Synonym": "unoriginal, obvious saying"
+        },
+        {
+            "Word": "Quibble",
+            "Synonym": "1. (v) to argue about minor matters; to play on words when finding fault; 2. (n) a minor verbal point in an argument"
+        },
+        {
+            "Word": "Apprehension",
+            "Synonym": "slight fear; sense of something unfavorable"
+        },
+        {
+            "Word": "Conniving",
+            "Synonym": "cunning; scheming [connive (v)]"
+        },
+        {
+            "Word": "Derision",
+            "Synonym": "mockery [deride (v)]"
+        },
+        {
+            "Word": "Epigram",
+            "Synonym": "short, witty saying"
+        },
+        {
+            "Word": "Lassitude",
+            "Synonym": "lack of energy; weariness"
+        },
+        {
+            "Word": "Pedantic",
+            "Synonym": "over-insistent on matters of book-learning [pedant (n)]"
+        },
+        {
+            "Word": "Phenomenology",
+            "Synonym": "branch of science concerned with things as they are perceived; not directly derived from theory"
+        },
+        {
+            "Word": "Precipitate",
+            "Synonym": "1. hurried (a); 2. insoluble product of a reaction in chemistry (n), 3. to instigate or speed up an action (v)"
+        },
+        {
+            "Word": "Renege",
+            "Synonym": "go back on promise or retract statement"
+        },
+        {
+            "Word": "Apprehension",
+            "Synonym": "slight fear; sense of something unfavorable"
+        },
+        {
+            "Word": "Armada",
+            "Synonym": "fleet of ships"
+        },
+        {
+            "Word": "Dawdler",
+            "Synonym": "slow person who falls behind others [dawdle (v)]"
+        },
+        {
+            "Word": "Dross",
+            "Synonym": "something worthless; impurities left after refining"
+        },
+        {
+            "Word": "Expiate",
+            "Synonym": "atone; make amends for"
+        },
+        {
+            "Word": "Hack",
+            "Synonym": "1. chop roughly; 2. person who writes to earn money, 3. hired horse"
+        },
+        {
+            "Word": "Prone",
+            "Synonym": "1. vulnerable to; 2. horizontal"
+        },
+        {
+            "Word": "Propensity",
+            "Synonym": "tendency; inclination"
+        },
+        {
+            "Word": "Scabbard",
+            "Synonym": "cover for a sword"
+        },
+        {
+            "Word": "Skiff",
+            "Synonym": "small boat"
+        },
+        {
+            "Word": "Umbrage",
+            "Synonym": "1. shadow; 2. offence; sense of injury"
+        },
+        {
+            "Word": "Dilettantism",
+            "Synonym": "
+dabbling esp. in the arts [dilettante (n) = person who dabbles]"
+        },
+        {
+            "Word": "Enervate",
+            "Synonym": "weaken"
+        },
+        {
+            "Word": "Malevolent",
+            "Synonym": "having evil intentions [malevolence (n)]"
+        },
+        {
+            "Word": "Neophyte",
+            "Synonym": "new convert; tyro"
+        },
+        {
+            "Word": "Panegyric",
+            "Synonym": "speech praising someone; laudatory words"
+        },
+        {
+            "Word": "Presage",
+            "Synonym": "forewarn of; indicate"
+        },
+        {
+            "Word": "Serration",
+            "Synonym": "jagged edge"
+        },
+        {
+            "Word": "Slight",
+            "Synonym": "1. minor (a); 2. perceived insult (v) and (n)"
+        },
+        {
+            "Word": "Tare",
+            "Synonym": "
+1. weed; 2. allowance made for container when weighing"
+        },
+        {
+            "Word": "Unprepossessing",
+            "Synonym": "unattractive"
+        },
+        {
+            "Word": "Aberration",
+            "Synonym": "deviation from the normal"
+        },
+        {
+            "Word": "Cant",
+            "Synonym": "insincere talk"
+        },
+        {
+            "Word": "Disinter",
+            "Synonym": "dig up [opposite inter = bury]"
+        },
+        {
+            "Word": "Façade",
+            "Synonym": "1. front elevation of building, 2. false appearance or demeanor"
+        },
+        {
+            "Word": "Impeding",
+            "Synonym": "hindering [impede (v); impediment (n)]"
+        },
+        {
+            "Word": "Lacuna",
+            "Synonym": "gap; missing part [plural = lacunae]"
+        },
+        {
+            "Word": "Monolithic",
+            "Synonym": "united in purpose; forming a single unit"
+        },
+        {
+            "Word": "Pied",
+            "Synonym": "multicolored"
+        },
+        {
+            "Word": "Roster",
+            "Synonym": "list of names"
+        },
+        {
+            "Word": "Seemly",
+            "Synonym": "appropriate (of behavior); decorous"
+        },
+        {
+            "Word": "Analogue",
+            "Synonym": "
+1. something similar; 2. output proportional to input (engineering)"
+        },
+        {
+            "Word": "Coda",
+            "Synonym": "piece of music at the end of a musical work; finale; final part of document"
+        },
+        {
+            "Word": "Commingle",
+            "Synonym": "mix"
+        },
+        {
+            "Word": "Equivocal",
+            "Synonym": "
+ambiguous; open to interpretation [equivocate (v), equivocation (n)]"
+        },
+        {
+            "Word": "Fallible",
+            "Synonym": "capable of making mistakes [fallibility (n)]"
+        },
+        {
+            "Word": "Hallow",
+            "Synonym": "respect; worship"
+        },
+        {
+            "Word": "Indigence",
+            "Synonym": "poverty"
+        },
+        {
+            "Word": "Papyrus",
+            "Synonym": "material used for writing on before paper was invented"
+        },
+        {
+            "Word": "Pique",
+            "Synonym": "1. annoyance (n); 2. to stimulate interest; to annoy (v)"
+        },
+        {
+            "Word": "Sap",
+            "Synonym": "1. liquid inside plants (n); 2. to drain; to undermine (v); 3. a fool (n)"
+        },
+        {
+            "Word": "Arbitrator",
+            "Synonym": "mediator; person appointed to judge a dispute [arbitrate (v)]"
+        },
+        {
+            "Word": "Descry",
+            "Synonym": "to see (esp. at a distance); catch sight of"
+        },
+        {
+            "Word": "Facetious",
+            "Synonym": "not intended to be taken seriously"
+        },
+        {
+            "Word": "Indecorous",
+            "Synonym": "unseemly; inappropriate (of behavior)"
+        },
+        {
+            "Word": "Proliferate",
+            "Synonym": "grow and spread [proliferation (n)]"
+        },
+        {
+            "Word": "Scotch (v)",
+            "Synonym": "to prevent; stop; disable"
+        },
+        {
+            "Word": "Strut",
+            "Synonym": "
+1. supporting rod (n); 2. to walk in an arrogant manner; show off (v)"
+        },
+        {
+            "Word": "Toy (v)",
+            "Synonym": "to play with"
+        },
+        {
+            "Word": "Usury",
+            "Synonym": "lending money at high interest rates"
+        },
+        {
+            "Word": "Wag (n)",
+            "Synonym": "a witty person"
+        },
+        {
+            "Word": "Atavism",
+            "Synonym": "reappearance of ancestral traits; regression [atavistic (a)]"
+        },
+        {
+            "Word": "Filibuster",
+            "Synonym": "delaying tactics"
+        },
+        {
+            "Word": "Gambit",
+            "Synonym": "opening move; transaction"
+        },
+        {
+            "Word": "Mitigation",
+            "Synonym": "making less severe [mitigate (v)]"
+        },
+        {
+            "Word": "Obligate",
+            "Synonym": "compulsory"
+        },
+        {
+            "Word": "Predilection",
+            "Synonym": "leaning; interest; talent"
+        },
+        {
+            "Word": "Propitiate",
+            "Synonym": "appease; try to gain favor [propitiation (n)]"
+        },
+        {
+            "Word": "Stanch",
+            "Synonym": "to stop"
+        },
+        {
+            "Word": "Travesty",
+            "Synonym": "parody; ridiculous error"
+        },
+        {
+            "Word": "Waft",
+            "Synonym": "drift smoothly (v); whiff; smell (n)"
+        },
+        {
+            "Word": "Forage",
+            "Synonym": "search for food"
+        },
+        {
+            "Word": "Lumber",
+            "Synonym": "1. walk in an ungainly way; 2. timber (wood)"
+        },
+        {
+            "Word": "Muse",
+            "Synonym": "1. think; meditate (v); 2. a source of inspiration (n) [in mythology, a goddess who gives inspiration]"
+        },
+        {
+            "Word": "Prescience",
+            "Synonym": "foreknowledge"
+        },
+        {
+            "Word": "Prune",
+            "Synonym": "1. to trim; 2. a dried plum"
+        },
+        {
+            "Word": "Ready",
+            "Synonym": "(used of wit) quick"
+        },
+        {
+            "Word": "Resolve",
+            "Synonym": "firmness (n)"
+        },
+        {
+            "Word": "Squalid",
+            "Synonym": "dirty and demeaning"
+        },
+        {
+            "Word": "Sullied",
+            "Synonym": "made dirty or impure [opposite unsullied; sully (v)]"
+        },
+        {
+            "Word": "Veneration",
+            "Synonym": "worship; respect [venerable (a), venerate (v)]"
+        },
+        {
+            "Word": "Demur",
+            "Synonym": "object; hesitate to accept"
+        },
+        {
+            "Word": "Duplicity",
+            "Synonym": "cunning; deception; double dealing"
+        },
+        {
+            "Word": "Exigency",
+            "Synonym": "urgent matter; pressing need"
+        },
+        {
+            "Word": "Expostulate",
+            "Synonym": "offer strong objections; remonstrate"
+        },
+        {
+            "Word": "Gossamer",
+            "Synonym": "delicate; filmy; like gauze"
+        },
+        {
+            "Word": "Inefficacious",
+            "Synonym": "ineffective"
+        },
+        {
+            "Word": "Pine",
+            "Synonym": "1. type of evergreen tree; 2. grieve"
+        },
+        {
+            "Word": "Prudish",
+            "Synonym": "narrow-minded; excessively concerned with morals [prudery (n), prude (n)]"
+        },
+        {
+            "Word": "Quixotic",
+            "Synonym": "impractically idealistic"
+        },
+        {
+            "Word": "Stipple",
+            "Synonym": "cover with dots of paint etc."
+        }
+    ]
+}

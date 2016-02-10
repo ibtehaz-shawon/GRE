@@ -1,0 +1,410 @@
+﻿{
+    "WordList5": [
+        {
+            
+            "Word": "Abraded",
+            "Synonym": "worn away; eroded [abrade (v); abrasion (n)]"
+        },
+        {
+            "Word": "Apposite",
+            "Synonym": "fitting; suitable"
+        },
+        {
+            "Word": "Diatribe",
+            "Synonym": "tirade; violent denunciation; stream of criticism"
+        },
+        {
+            "Word": "Gerontocracy",
+            "Synonym": "government by the aged"
+        },
+        {
+            "Word": "Maculated",
+            "Synonym": "spotted"
+        },
+        {
+            "Word": "Quisling",
+            "Synonym": "traitor"
+        },
+        {
+            "Word": "Sedulity",
+            "Synonym": "thoroughness; perseverance [sedulous (a)"
+        },
+        {
+            "Word": "Seine",
+            "Synonym": "type of fishing net"
+        },
+        {
+            "Word": "Tender",
+            "Synonym": "to offer"
+        },
+        {
+            "Word": "Waffle",
+            "Synonym": "talk nonsense"
+        },
+        {
+            "Word": "Burlesque",
+            "Synonym": "1. comic play; 2. lampoon"
+        },
+        {
+            "Word": "Exemplar",
+            "Synonym": "model type [exemplary (a)]"
+        },
+        {
+            "Word": "Homiletics",
+            "Synonym": "art of preaching and giving sermons"
+        },
+        {
+            "Word": "Impugn",
+            "Synonym": "challenge; question someone’s honor etc."
+        },
+        {
+            "Word": "Incubus",
+            "Synonym": "encumbrance; nightmarish thing"
+        },
+        {
+            "Word": "Lope",
+            "Synonym": "run with long strides"
+        },
+        {
+            "Word": "Macerate",
+            "Synonym": "chop into tiny pieces"
+        },
+        {
+            "Word": "Nostrum",
+            "Synonym": "remedy"
+        },
+        {
+            "Word": "Saw",
+            "Synonym": "1. tool for cutting; 2. wise saying"
+        },
+        {
+            "Word": "Sibyl",
+            "Synonym": "prophetess"
+        },
+        {
+            "Word": "Brook",
+            "Synonym": "1. small stream; 2. tolerate"
+        },
+        {
+            "Word": "Emboss",
+            "Synonym": "decorate with a raised design"
+        },
+        {
+            "Word": "Eschew",
+            "Synonym": "shun; avoid"
+        },
+        {
+            "Word": "Limpid",
+            "Synonym": "transparently clear"
+        },
+        {
+            "Word": "Liturgy",
+            "Synonym": "form of worship"
+        },
+        {
+            "Word": "Nexus",
+            "Synonym": "connection"
+        },
+        {
+            "Word": "Odometer",
+            "Synonym": "instrument to measure distance covered"
+        },
+        {
+            "Word": "Purchase",
+            "Synonym": "1. grip; 2. buy"
+        },
+        {
+            "Word": "Quotidian",
+            "Synonym": "daily; routine"
+        },
+        {
+            "Word": "Seminal",
+            "Synonym": "essential; formative"
+        },
+        {
+            "Word": "Agog",
+            "Synonym": "amazed; wide-eyed with enthusiasm"
+        },
+        {
+            "Word": "Amortize",
+            "Synonym": "pay off a debt in installments"
+        },
+        {
+            "Word": "Curmudgeon",
+            "Synonym": "grumpy person"
+        },
+        {
+            "Word": "Dormancy",
+            "Synonym": "state of inactivity"
+        },
+        {
+            "Word": "Efficacy",
+            "Synonym": "effectiveness"
+        },
+        {
+            "Word": "Epithet",
+            "Synonym": "phrase used as a label or to express the essential nature of"
+        },
+        {
+            "Word": "Figurehead",
+            "Synonym": "symbol of power; nominal leader"
+        },
+        {
+            "Word": "Fracas",
+            "Synonym": "fight; disturbance"
+        },
+        {
+            "Word": "Jamb",
+            "Synonym": "door post"
+        },
+        {
+            "Word": "Milk",
+            "Synonym": "to squeeze; obtain by application of pressure"
+        },
+        {
+            "Word": "Chorales",
+            "Synonym": "simple hymns"
+        },
+        {
+            "Word": "Dissonance",
+            "Synonym": "discord; disagreement"
+        },
+        {
+            "Word": "Frieze",
+            "Synonym": "decorative border"
+        },
+        {
+            "Word": "Gist",
+            "Synonym": "essence; main point"
+        },
+        {
+            "Word": "Latent",
+            "Synonym": "hidden; real but undeveloped"
+        },
+        {
+            "Word": "Partiality",
+            "Synonym": "bias"
+        },
+        {
+            "Word": "Plodding",
+            "Synonym": "walking slowly and heavily; uninspired"
+        },
+        {
+            "Word": "Rekindle",
+            "Synonym": "relight; revive"
+        },
+        {
+            "Word": "Symphony",
+            "Synonym": "type of musical composition"
+        },
+        {
+            "Word": "Tarnished",
+            "Synonym": "made dull; spoil (reputation)"
+        },
+        {
+            "Word": "Compromised",
+            "Synonym": "1. damaged or put in doubt (esp. of reputation); 2. reached an agreement by giving up part of a claim"
+        },
+        {
+            "Word": "Drabness",
+            "Synonym": "dullness"
+        },
+        {
+            "Word": "Endow",
+            "Synonym": "give gift; provide with money etc."
+        },
+        {
+            "Word": "Esoterica",
+            "Synonym": "obscure details"
+        },
+        {
+            "Word": "Falters",
+            "Synonym": "hesitates"
+        },
+        {
+            "Word": "Prattle",
+            "Synonym": "mindless talk"
+        },
+        {
+            "Word": "Prohibitive",
+            "Synonym": "1. prohibiting; 2. exorbitantly expensive"
+        },
+        {
+            "Word": "Purist",
+            "Synonym": "
+conservative; one who insists on correct forms of language etc."
+        },
+        {
+            "Word": "Quack",
+            "Synonym": "charlatan; fake"
+        },
+        {
+            "Word": "Taunt",
+            "Synonym": "mock; tease"
+        },
+        {
+            "Word": "Arresting (a)",
+            "Synonym": "attracting attention; striking"
+        },
+        {
+            "Word": "Barrage",
+            "Synonym": "extended gunfire to cover an attack; dam across river; deluge or information etc."
+        },
+        {
+            "Word": "Chantey",
+            "Synonym": "type of song sung by sailors"
+        },
+        {
+            "Word": "Ferrous",
+            "Synonym": "concerned with iron or its compounds"
+        },
+        {
+            "Word": "Manipulative",
+            "Synonym": "scheming"
+        },
+        {
+            "Word": "Orate",
+            "Synonym": "speak in a pompous manner"
+        },
+        {
+            "Word": "Psychosis",
+            "Synonym": "severe mental disturbance"
+        },
+        {
+            "Word": "Savor",
+            "Synonym": "enjoy"
+        },
+        {
+            "Word": "Table (v)",
+            "Synonym": "put down for future discussion"
+        },
+        {
+            "Word": "Underwrite",
+            "Synonym": "give guarantee, insure"
+        },
+        {
+            "Word": "Dissident",
+            "Synonym": "person who disagrees [dissidence (n)]"
+        },
+        {
+            "Word": "Enigmatic",
+            "Synonym": "puzzling [enigma (n)]"
+        },
+        {
+            "Word": "Foolhardy",
+            "Synonym": "reckless [foolhardiness (n)]"
+        },
+        {
+            "Word": "Homogeneity",
+            "Synonym": "evenness; uniformity"
+        },
+        {
+            "Word": "Personification",
+            "Synonym": "
+1. represent something as a person; 2. a concrete example of"
+        },
+        {
+            "Word": "Plaque",
+            "Synonym": "1. surface deposit on teeth or in artery etc.; 2. decorative plate or sign"
+        },
+        {
+            "Word": "Plausibility",
+            "Synonym": "believability [plausible (a)]"
+        },
+        {
+            "Word": "Resilience",
+            "Synonym": "resistance; ability to spring back [resilience (a)]"
+        },
+        {
+            "Word": "Trilogy",
+            "Synonym": "set of three (literary works etc.); tetralogy = set of four"
+        },
+        {
+            "Word": "Vagary",
+            "Synonym": "something unaccountable; freak"
+        },
+        {
+            "Word": "Aisle",
+            "Synonym": "corridor; passageway (esp. between rows of seats)"
+        },
+        {
+            "Word": "Discountenance",
+            "Synonym": "disallow"
+        },
+        {
+            "Word": "Imperative",
+            "Synonym": "must be obeyed"
+        },
+        {
+            "Word": "Indigent",
+            "Synonym": "poor; needy [indigence (n)]"
+        },
+        {
+            "Word": "Nadir",
+            "Synonym": "lowest point"
+        },
+        {
+            "Word": "Paranoia",
+            "Synonym": "mental state characterized by delusions or excessive fear"
+        },
+        {
+            "Word": "Prudence",
+            "Synonym": "caution; wisdom"
+        },
+        {
+            "Word": "Resuscitation",
+            "Synonym": "revival from unconsciousness [resuscitate (v)]"
+        },
+        {
+            "Word": "Shirk",
+            "Synonym": "avoid (esp. work)"
+        },
+        {
+            "Word": "Teetotalism",
+            "Synonym": "total abstinence from alcohol"
+        },
+        {
+            "Word": "Balm",
+            "Synonym": "soothing ointment or anything soothing [balmy (a)]"
+        },
+        {
+            "Word": "Calibrate",
+            "Synonym": "mark an accurate scale on a device"
+        },
+        {
+            "Word": "Cataclysmic",
+            "Synonym": "violently disruptive [cataclysm (n)]"
+        },
+        {
+            "Word": "Impropriety",
+            "Synonym": "inappropriate behavior"
+        },
+        {
+            "Word": "Pith",
+            "Synonym": "center; soft part of stem; essence"
+        },
+        {
+            "Word": "Primordial",
+            "Synonym": "present from the beginning of time"
+        },
+        {
+            "Word": "Reconnaissance",
+            "Synonym": "
+examination or survey conducted in advance [reconnoiter (v)]"
+        },
+        {
+            "Word": "Sinistral",
+            "Synonym": "left-handed (or counterclockwise) [dextral - right handed]"
+        },
+        {
+            "Word": "Tempers",
+            "Synonym": "moderates"
+        },
+        {
+            "Word": "Undermine",
+            "Synonym": "subvert; attempt to overthrow"
+        }
+    ]
+}
+
+

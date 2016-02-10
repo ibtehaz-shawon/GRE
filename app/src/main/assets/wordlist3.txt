@@ -1,0 +1,503 @@
+{
+    "WordList3": [
+        {
+            
+            "Word": "Alacrity",
+            "Synonym": "eagerness, enthusiasm, quickness"
+        },
+        {
+            
+            "Word": "Burgeon",
+            "Synonym": "grow, flourish, put forth new shoots"
+        },
+        {
+            
+            "Word": "Deleterious",
+            "Synonym": "harmful"
+        },
+        {
+            
+            "Word": "Euphemism",
+            "Synonym": "a polite phrase to cover something unpleasant"
+        },
+        {
+            
+            "Word": "Hypocritical",
+            "Synonym": "insincere"
+        },
+        {
+            
+            "Word": "Lethargic",
+            "Synonym": "tired, without energy"
+        },
+        {
+            
+            "Word": "Ogle",
+            "Synonym": "stare at, observe in an obvious manner"
+        },
+        {
+            
+            "Word": "Postulate",
+            "Synonym": "hypothesize, propose"
+        },
+        {
+            
+            "Word": "Robust",
+            "Synonym": "strong, healthy, tough"
+        },
+        {
+            
+            "Word": "Tractable",
+            "Synonym": "obedient, dutiful, polite"
+        },
+        {
+            
+            "Word": "Alchemy",
+            "Synonym": "medieval chemistry, attempt to change base metal into gold"
+        },
+        {
+            
+            "Word": "Burnish",
+            "Synonym": "polish"
+        },
+        {
+            
+            "Word": "Deliberate",
+            "Synonym": "to think over deeply"
+        },
+        {
+            
+            "Word": "Euphony",
+            "Synonym": "pleasant sounds"
+        },
+        {
+            
+            "Word": "Iconoclast",
+            "Synonym": "person who opposes orthodoxy"
+        },
+        {
+            
+            "Word": "Levity",
+            "Synonym": "flippancy, joking about serious matters"
+        },
+        {
+            
+            "Word": "Olfactory",
+            "Synonym": "concerned with the sense of smell"
+        },
+        {
+            
+            "Word": "Potable",
+            "Synonym": "suitable for drinking"
+        },
+        {
+            
+            "Word": "Rotund",
+            "Synonym": "round"
+        },
+        {
+            
+            "Word": "Tranquil",
+            "Synonym": "peaceful"
+        },
+        {
+            
+            "Word": "Alibi",
+            "Synonym": "an excuse that shows someone was not at a crime scene"
+        },
+        {
+            
+            "Word": "Buttress",
+            "Synonym": "strengthen, support"
+        },
+        {
+            
+            "Word": "Delineation",
+            "Synonym": "demarcation, explanation, definition, outlining"
+        },
+        {
+            
+            "Word": "Evacuate",
+            "Synonym": "vacate, empty, abandon"
+        },
+        {
+            
+            "Word": "Idiosyncrasy",
+            "Synonym": "a personal peculiarity, something unique to an individual"
+        },
+        {
+            
+            "Word": "Libertarian",
+            "Synonym": "someone who opposes tyranny"
+        },
+        {
+            
+            "Word": "Ominous",
+            "Synonym": "threatening"
+        },
+        {
+            
+            "Word": "Potent",
+            "Synonym": "powerful, compelling, strong"
+        },
+        {
+            
+            "Word": "Ruminate",
+            "Synonym": "think over something, ponder"
+        },
+        {
+            
+            "Word": "Transcribe",
+            "Synonym": "copy"
+        },
+        {
+            
+            "Word": "Allay",
+            "Synonym": "to lessen"
+        },
+        {
+            
+            "Word": "Byline",
+            "Synonym": "the line that tells you who wrote an article"
+        },
+        {
+            
+            "Word": "Demur",
+            "Synonym": "hesitate, refuse"
+        },
+        {
+            
+            "Word": "Exacerbate",
+            "Synonym": "make worse"
+        },
+        {
+            
+            "Word": "Ignominious",
+            "Synonym": "shameful"
+        },
+        {
+            
+            "Word": "Liniment",
+            "Synonym": "soothing lotion"
+        },
+        {
+            
+            "Word": "Omnipotent",
+            "Synonym": "all-powerful"
+        },
+        {
+            
+            "Word": "Pragmatic",
+            "Synonym": "practical"
+        },
+        {
+            
+            "Word": "Ruse",
+            "Synonym": "trick, stratagem"
+        },
+        {
+            
+            "Word": "Transgress",
+            "Synonym": "go astray, disobey, commit a sin"
+        },
+        {
+            
+            "Word": "Alleviate",
+            "Synonym": "make less severe"
+        },
+        {
+            
+            "Word": "Cacophony",
+            "Synonym": "discordant loud noises"
+        },
+        {
+            
+            "Word": "Denounce",
+            "Synonym": "condemn, speak out against"
+        },
+        {
+            
+            "Word": "Exasperated",
+            "Synonym": "frustrated, annoyed"
+        },
+        {
+            
+            "Word": "Ignominy",
+            "Synonym": "shame [ignominious (a) = shameful]"
+        },
+        {
+            
+            "Word": "Lithe",
+            "Synonym": "flexible, supple"
+        },
+        {
+            
+            "Word": "Omniscient",
+            "Synonym": "all-knowing"
+        },
+        {
+            
+            "Word": "Pragmatist",
+            "Synonym": "practical person, one who is concerned with usefulness"
+        },
+        {
+            
+            "Word": "Saccharin",
+            "Synonym": "falsely sweet"
+        },
+        {
+            
+            "Word": "Transient",
+            "Synonym": "short-lived, ephemeral"
+        },
+        {
+            
+            "Word": "Aloof",
+            "Synonym": "distant, detached, cold"
+        },
+        {
+            
+            "Word": "Cajole",
+            "Synonym": "coax"
+        },
+        {
+            
+            "Word": "Deplete",
+            "Synonym": "use up, lessen"
+        },
+        {
+            
+            "Word": "Exceptionable",
+            "Synonym": "very bad (something which we should object to)"
+        },
+        {
+            
+            "Word": "Illuminate",
+            "Synonym": "to light up or make clear"
+        },
+        {
+            
+            "Word": "Livid",
+            "Synonym": "very angry"
+        },
+        {
+            
+            "Word": "Onerous",
+            "Synonym": "burdensome, hard to undertake"
+        },
+        {
+            
+            "Word": "Preamble",
+            "Synonym": "introductory material"
+        },
+        {
+            
+            "Word": "Sacrosanct",
+            "Synonym": "very holy, inviolable"
+        },
+        {
+            
+            "Word": "Traverse",
+            "Synonym": "to move across"
+        },
+        {
+            
+            "Word": "Altruism",
+            "Synonym": "putting others first, being self-sacrificing"
+        },
+        {
+            
+            "Word": "Caldron",
+            "Synonym": "huge cooking pot"
+        },
+        {
+            
+            "Word": "Deplore",
+            "Synonym": "regret"
+        },
+        {
+            
+            "Word": "Exculpate",
+            "Synonym": "free someone from blame, pardon, acquit"
+        },
+        {
+            
+            "Word": "Illusory",
+            "Synonym": "deceptive, false, misleading"
+        },
+        {
+            
+            "Word": "Lobbyist",
+            "Synonym": "person who tries to persuade someone to support a particular cause"
+        },
+        {
+            
+            "Word": "Onus",
+            "Synonym": "burden"
+        },
+        {
+            
+            "Word": "Precarious",
+            "Synonym": "unstable, risky"
+        },
+        {
+            
+            "Word": "Sagacious",
+            "Synonym": "wise"
+        },
+        {
+            
+            "Word": "Trepidation",
+            "Synonym": "fear"
+        },
+        {
+            
+            "Word": "Amass",
+            "Synonym": "accumulate"
+        },
+        {
+            
+            "Word": "Callow",
+            "Synonym": "immature"
+        },
+        {
+            
+            "Word": "Depravity",
+            "Synonym": "moral corruption"
+        },
+        {
+            
+            "Word": "Execrable",
+            "Synonym": "very, very bad"
+        },
+        {
+            
+            "Word": "Immoderate",
+            "Synonym": "excessive; extreme"
+        },
+        {
+            
+            "Word": "Lofty",
+            "Synonym": "snooty, arrogant, haughty"
+        },
+        {
+            
+            "Word": "Opaque",
+            "Synonym": "does not let light through"
+        },
+        {
+            
+            "Word": "Precedent",
+            "Synonym": "a previous occurrence used as a guide"
+        },
+        {
+            
+            "Word": "Sage",
+            "Synonym": "a wise person"
+        },
+        {
+            
+            "Word": "Trinket",
+            "Synonym": "something of little value, knick-knack"
+        },
+        {
+            
+            "Word": "Ambiguity",
+            "Synonym": "uncertainty, vagueness"
+        },
+        {
+            
+            "Word": "Candid",
+            "Synonym": "frank, honest"
+        },
+        {
+            
+            "Word": "Deprecate",
+            "Synonym": "criticize, denounce"
+        },
+        {
+            
+            "Word": "Exegesis",
+            "Synonym": "scholarly explanation or interpretation"
+        },
+        {
+            
+            "Word": "Immutable",
+            "Synonym": "unchanging, permanent"
+        },
+        {
+            
+            "Word": "Longevity",
+            "Synonym": "long life"
+        },
+        {
+            
+            "Word": "Opulent",
+            "Synonym": "wealthy, rich, magnificent"
+        },
+        {
+            
+            "Word": "Precept",
+            "Synonym": "guiding principle"
+        },
+        {
+            
+            "Word": "Salacious",
+            "Synonym": "lecherous, erotic"
+        },
+        {
+            
+            "Word": "Trite",
+            "Synonym": "unoriginal, dull"
+        },
+        {
+            
+            "Word": "Ambiguous",
+            "Synonym": "unclear in meaning, can be interpreted in different ways"
+        },
+        {
+            
+            "Word": "Candor",
+            "Synonym": "frankness, openness"
+        },
+        {
+            
+            "Word": "Deride",
+            "Synonym": "ridicule, make fun of, mock"
+        },
+        {
+            
+            "Word": "Exemplary",
+            "Synonym": "outstandingly good, setting a fine example"
+        },
+        {
+            
+            "Word": "Impartial",
+            "Synonym": "unbiased, neutral"
+        },
+        {
+            
+            "Word": "Loquacious",
+            "Synonym": "talkative"
+        },
+        {
+            
+            "Word": "Ordain",
+            "Synonym": "1. destine; 2. confer holy orders on a priest"
+        },
+        {
+            
+            "Word": "Precinct",
+            "Synonym": "district of a city"
+        },
+        {
+            
+            "Word": "Sallow",
+            "Synonym": "yellowish"
+        },
+        {
+        	"Word":"Trivial",
+        	"Synonym":"unimportant"
+        }
+     ]
+}

@@ -1,0 +1,505 @@
+{
+    "WordList4": [
+        {
+            
+            "Word": "Ambivalence",
+            "Synonym": "lack of clarity wavering, being undecided"
+        },
+        {
+            
+            "Word": "Cantankerous",
+            "Synonym": "bad-tempered, quarrelsome"
+        },
+        {
+            
+            "Word": "Derogatory",
+            "Synonym": "uncomplimentary"
+        },
+        {
+            
+            "Word": "Exemplify",
+            "Synonym": "to serve as a good example"
+        },
+        {
+            
+            "Word": "Impecunious",
+            "Synonym": "having no money"
+        },
+        {
+            
+            "Word": "Lucid",
+            "Synonym": "clear"
+        },
+        {
+            
+            "Word": "Ornate",
+            "Synonym": "highly decorated"
+        },
+        {
+            
+            "Word": "Precipice",
+            "Synonym": "steep slope"
+        },
+        {
+            
+            "Word": "Salubrious",
+            "Synonym": "health-giving"
+        },
+        {
+            
+            "Word": "Truant",
+            "Synonym": "shirke, someone absent without permission"
+        },
+        {
+            
+            "Word": "Ambulatory",
+            "Synonym": "able to walk around (used of hospital patients)"
+        },
+        {
+            
+            "Word": "Capacious",
+            "Synonym": "spacious"
+        },
+        {
+            
+            "Word": "Desecrate",
+            "Synonym": "to damage or pollute a holy place"
+        },
+        {
+            
+            "Word": "Exhaustive",
+            "Synonym": "complete and thorough"
+        },
+        {
+            
+            "Word": "Impious",
+            "Synonym": "wicked, profane"
+        },
+        {
+            
+            "Word": "Ludicrous",
+            "Synonym": "ridiculous, silly"
+        },
+        {
+            
+            "Word": "Orthodox",
+            "Synonym": "conventional"
+        },
+        {
+            
+            "Word": "Precipitous",
+            "Synonym": "done in a hurry"
+        },
+        {
+            
+            "Word": "Salutary",
+            "Synonym": "something which teaches you a lesson, beneficial"
+        },
+        {
+            
+            "Word": "Truncate",
+            "Synonym": "cut short"
+        },
+        {
+            
+            "Word": "Ameliorate",
+            "Synonym": "make better"
+        },
+        {
+            
+            "Word": "Capitulate",
+            "Synonym": "surrender, give in to"
+        },
+        {
+            
+            "Word": "Desecration",
+            "Synonym": "spoiling something holy"
+        },
+        {
+            
+            "Word": "Exonerates",
+            "Synonym": "acquits, absolves, removes blame"
+        },
+        {
+            
+            "Word": "Impoverished",
+            "Synonym": "destitute, poor"
+        },
+        {
+            
+            "Word": "Lukewarm",
+            "Synonym": "1. unenthusiastic; 2. neither hot nor cold"
+        },
+        {
+            
+            "Word": "Ossify",
+            "Synonym": "1. turn to bone; 2. become fixed and rigid"
+        },
+        {
+            
+            "Word": "Preclude",
+            "Synonym": "prevent or make impossible"
+        },
+        {
+            
+            "Word": "Sanctimonious",
+            "Synonym": "hypocritically holy"
+        },
+        {
+            
+            "Word": "Tumult",
+            "Synonym": "uproar; noise"
+        },
+        {
+            
+            "Word": "Amelioration",
+            "Synonym": "improvement"
+        },
+        {
+            
+            "Word": "Carping",
+            "Synonym": "constant criticism"
+        },
+        {
+            
+            "Word": "Desist",
+            "Synonym": "stop, discontinue, cease"
+        },
+        {
+            
+            "Word": "Exorcism",
+            "Synonym": "getting free/rid of; eliminating (especially demons)"
+        },
+        {
+            
+            "Word": "Impromptu",
+            "Synonym": "unrehearsed, spontaneous"
+        },
+        {
+            
+            "Word": "Lummox",
+            "Synonym": "clumsy person"
+        },
+        {
+            
+            "Word": "Ostentatious",
+            "Synonym": "showy"
+        },
+        {
+            
+            "Word": "Precocious",
+            "Synonym": "developing early"
+        },
+        {
+            
+            "Word": "Sanction",
+            "Synonym": "give approval to"
+        },
+        {
+            
+            "Word": "Turpitude",
+            "Synonym": "depravity"
+        },
+        {
+            
+            "Word": "Amiable",
+            "Synonym": "friendly"
+        },
+        {
+            
+            "Word": "Cartographer",
+            "Synonym": "person who makes maps"
+        },
+        {
+            
+            "Word": "Despondent",
+            "Synonym": "having no hope; miserable"
+        },
+        {
+            
+            "Word": "Expatriate",
+            "Synonym": "refugee; emigrant; someone living away from his own country"
+        },
+        {
+            
+            "Word": "Inadvertent",
+            "Synonym": "not intentional"
+        },
+        {
+            
+            "Word": "Luscious",
+            "Synonym": "juicy; moist; succulent"
+        },
+        {
+            
+            "Word": "Oust",
+            "Synonym": "push out of a position"
+        },
+        {
+            
+            "Word": "Predecessor",
+            "Synonym": "one who came before"
+        },
+        {
+            
+            "Word": "Sanguinary",
+            "Synonym": "bloodthirsty; bloody"
+        },
+        {
+            
+            "Word": "Tyro",
+            "Synonym": "novice; beginner"
+        },
+        {
+            
+            "Word": "Amity",
+            "Synonym": "friendship"
+        },
+        {
+            
+            "Word": "Castigate",
+            "Synonym": "scold strongly"
+        },
+        {
+            
+            "Word": "Destitution",
+            "Synonym": "hardship; poverty; misery"
+        },
+        {
+            
+            "Word": "Expedient",
+            "Synonym": "convenient; practical"
+        },
+        {
+            
+            "Word": "Incantation",
+            "Synonym": "chant; invocation; prayer"
+        },
+        {
+            
+            "Word": "Lynch",
+            "Synonym": "assassinate; kill; illegal hanging"
+        },
+        {
+            
+            "Word": "Overt",
+            "Synonym": "obvious; not hidden"
+        },
+        {
+            
+            "Word": "Predicament",
+            "Synonym": "dilemma; difficult situation"
+        },
+        {
+            
+            "Word": "Sanguine",
+            "Synonym": "optimistic; cheerful"
+        },
+        {
+            
+            "Word": "Ubiquitous",
+            "Synonym": "found everywhere; omnipresent"
+        },
+        {
+            
+            "Word": "Amorphous",
+            "Synonym": "lacking in shape"
+        },
+        {
+            
+            "Word": "Catharsis",
+            "Synonym": "purging of pent-up emotions"
+        },
+        {
+            
+            "Word": "Deter",
+            "Synonym": "put off; prevent"
+        },
+        {
+            
+            "Word": "Expedite",
+            "Synonym": "make faster"
+        },
+        {
+            
+            "Word": "Incarceration",
+            "Synonym": "putting in prison"
+        },
+        {
+            
+            "Word": "Machinations",
+            "Synonym": "plots and plans"
+        },
+        {
+            
+            "Word": "Overwrought",
+            "Synonym": "worked up; in an emotional state"
+        },
+        {
+            
+            "Word": "Preeminent",
+            "Synonym": "famous; outstanding"
+        },
+        {
+            
+            "Word": "Sardonic",
+            "Synonym": "mocking"
+        },
+        {
+            
+            "Word": "Unalloyed",
+            "Synonym": "undiluted; total"
+        },
+        {
+            
+            "Word": "Analgesic",
+            "Synonym": "medicine to combat pain"
+        },
+        {
+            
+            "Word": "Caucus",
+            "Synonym": "type of private political meeting"
+        },
+        {
+            
+            "Word": "Deteriorate",
+            "Synonym": "worsen; decline"
+        },
+        {
+            
+            "Word": "Exposition",
+            "Synonym": "clear explanation"
+        },
+        {
+            
+            "Word": "Incessant",
+            "Synonym": "without stopping"
+        },
+        {
+            
+            "Word": "Maelstrom",
+            "Synonym": "whirlpool; storm in the ocean"
+        },
+        {
+            
+            "Word": "Palatable",
+            "Synonym": "good to eat; agreeable"
+        },
+        {
+            
+            "Word": "Prerogative",
+            "Synonym": "right or privilege"
+        },
+        {
+            
+            "Word": "Savant",
+            "Synonym": "person with knowledge"
+        },
+        {
+            
+            "Word": "Unctuous",
+            "Synonym": "oily; using excessive flattery"
+        },
+        {
+            
+            "Word": "Analogous",
+            "Synonym": "comparable"
+        },
+        {
+            
+            "Word": "Caustic",
+            "Synonym": "burning"
+        },
+        {
+            
+            "Word": "Detrimental",
+            "Synonym": "harmful"
+        },
+        {
+            
+            "Word": "Extol",
+            "Synonym": "praise"
+        },
+        {
+            
+            "Word": "Incipient",
+            "Synonym": "just beginning"
+        },
+        {
+            
+            "Word": "Magnanimous",
+            "Synonym": "generous; big-hearted"
+        },
+        {
+            
+            "Word": "Palisade",
+            "Synonym": "fence made of posts"
+        },
+        {
+            
+            "Word": "Prescient",
+            "Synonym": "having fore-knowledge"
+        },
+        {
+            
+            "Word": "Scale",
+            "Synonym": "to climb"
+        },
+        {
+            
+            "Word": "Undermined",
+            "Synonym": "damaged; attacked"
+        },
+        {
+            
+            "Word": "Anarchy",
+            "Synonym": "chaos; lack of government"
+        },
+        {
+            
+            "Word": "Cavalcade",
+            "Synonym": "procession of vehicles"
+        },
+        {
+            
+            "Word": "Devoured",
+            "Synonym": "greedily eaten/consumed"
+        },
+        {
+            
+            "Word": "Extradite",
+            "Synonym": "deport from one country back to the home country"
+        },
+        {
+            
+            "Word": "Inclination",
+            "Synonym": "tendency; a leaning toward"
+        },
+        {
+            
+            "Word": "Magnate",
+            "Synonym": "powerful businessman"
+        },
+        {
+            
+            "Word": "Palliative",
+            "Synonym": "a remedy that improves but doesn't cure"
+        },
+        {
+            
+            "Word": "Presentiment",
+            "Synonym": "a feeling that something might happen"
+        },
+        {
+            
+            "Word": "Scapegoat",
+            "Synonym": "person on whom blame is placed for faults of others"
+        },
+        {
+            
+            "Word": "Underscore",
+            "Synonym": "emphasize"
+        }
+     ]
+}
+

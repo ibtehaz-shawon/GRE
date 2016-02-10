@@ -1,0 +1,405 @@
+{
+    "WordList2": [
+        {
+            
+            "Word": "Acrid",
+            "Synonym": "sharp,  pungent (used of smells and tastes) "
+        },
+	{
+		"Word": "Boorish",
+		"Synonym": "ill-mannered"
+	},
+	{
+		"Word": "Cynical",
+		"Synonym": "believing that people act only out of selfish motives"
+	},
+	{
+		"Word":"Epistle",
+		"Synonym":"a letter (form of communication)"
+	},
+	{
+		"Word":"Heresy",
+		"Synonym":"against orthodox opinion"
+	},
+	{
+		"Word":"Lance",
+		"Synonym":"spear, spike, javelin"
+	},
+	{
+		"Word":"Obscure",
+		"Synonym":"difficult to understand, partially hidden"
+	},
+	{
+		"Word":"Poignant",
+		"Synonym":"deeply moving, strongly affecting the emotions"
+	},
+	{
+		"Word":"Respite",
+		"Synonym":"a break, intermission"
+	},
+	{
+		"Word":"Terse",
+		"Synonym":"concise, to the point"
+	},
+	{
+		"Word":"Acrophobia",
+		"Synonym":"fear of heights"
+	},
+	{
+		"Word":"Bourgeois",
+		"Synonym":"middle class"
+	},
+	{
+		"Word":"Debility",
+		"Synonym":"weakness, incapacity"
+	},
+	{
+		"Word":"Epistolary",
+		"Synonym":"concerned with letters, through correspondence"
+	},
+	{
+		"Word":"Hiatus",
+		"Synonym":"interruption, pause"
+	},
+	{
+		"Word":"Languid",
+		"Synonym":"tired, slow"
+	},
+	{
+		"Word":"Obscured",
+		"Synonym":"hidden, covered, buried"
+	},
+	{
+		"Word":"Poised",
+		"Synonym":"calm, collected, self-possessed"
+	},
+	{
+		"Word":"Resplendent",
+		"Synonym":"shining, glowing"
+	},
+	{
+		"Word":"Therapeutic",
+		"Synonym":"medicinal, curative"
+	},
+	{
+		"Word":"Acuity",
+		"Synonym":"sharpness (mental or visual)"
+	},
+	{
+		"Word":"Braggart",
+		"Synonym":"someone who boasts"
+	},
+	{
+		"Word":"Debunking",
+		"Synonym":"exposing false claims or myths"
+	},
+	{
+		"Word":"Epitomized",
+		"Synonym":"typified, characterized, personified"
+	},
+	{
+		"Word":"Hidebound",
+		"Synonym":"rigid in opinions"
+	},
+	{
+		"Word":"Languish",
+		"Synonym":"decay, fade away, get weaker"
+	},
+	{
+		"Word":"Obsequious",
+		"Synonym":"servile, submissive"
+	},
+	{
+		"Word":"Polemical",
+		"Synonym":"causing debate or argument"
+	},
+	{
+		"Word":"Restorative",
+		"Synonym":"a tonic"
+	},
+	{
+		"Word":"Thwart",
+		"Synonym":"prevent; frustrate"
+	},
+	{
+		"Word":"Adamant",
+		"Synonym":"forceful, inflexible"
+	},
+	{
+		"Word":"Brawny",
+		"Synonym":"muscular"
+	},
+	{
+		"Word":"Decathlon",
+		"Synonym":"an athletic competition with ten events"
+	},
+	{
+		"Word":"Equivocate",
+		"Synonym":"speak ambiguously, avoid telling the truth"
+	},
+	{
+		"Word":"Hieroglyphics",
+		"Synonym":"picture writing, writing which is difficult to read or enigmatic"
+	},
+	{
+		"Word":"Larceny",
+		"Synonym":"theft, robbery, stealing"
+	},
+	{
+		"Word":"Obsession",
+		"Synonym":"a dominating concern"
+	},
+	{
+		"Word":"Ponderous",
+		"Synonym":"weighty, slow and heavy"
+	},
+	{
+		"Word":"Retention",
+		"Synonym":"preservation, withholding"
+	},
+	{
+		"Word":"Timorous",
+		"Synonym":"cowardly, fearful"
+	},
+	{
+		"Word":"Adroit",
+		"Synonym":"skillful"
+	},
+	{
+		"Word":"Brevity",
+		"Synonym":"being brief"
+	},
+	{
+		"Word":"Decorum",
+		"Synonym":"dignified, correct behavior [decorous (a)]"
+	},
+	{
+		"Word":"Err",
+		"Synonym":"make a mistake"
+	},
+	{
+		"Word":"Hinder",
+		"Synonym":"obstruct"
+	},
+	{
+		"Word":"Largess",
+		"Synonym":"generosity"
+	},
+	{
+		"Word":"Obsolete",
+		"Synonym":"no longer valid"
+	},
+	{
+		"Word":"Pontificate",
+		"Synonym":"speak pompously or dogmatically"
+	},
+	{
+		"Word":"Reticent",
+		"Synonym":"restrained, holding something back, uncommunicative"
+	},
+	{
+		"Word":"Tirade",
+		"Synonym":"stream of verbal abuse"
+	},
+	{
+		"Word":"Adulation",
+		"Synonym":"strong admiration, worship"
+	},
+	{
+		"Word":"Bristle",
+		"Synonym":"to show irritation"
+	},
+	{
+		"Word":"Decoy",
+		"Synonym":"lure, trap, trick"
+	},
+	{
+		"Word":"Erratic",
+		"Synonym":"wandering, irregular"
+	},
+	{
+		"Word":"Histrionic",
+		"Synonym":"theatrical, exaggerated"
+	},
+	{
+		"Word":"Laud",
+		"Synonym":"praise"
+	},
+	{
+		"Word":"Obstreperous",
+		"Synonym":"noisy and boisterous"
+	},
+	{
+		"Word":"Portend",
+		"Synonym":"foretell"
+	},
+	{
+		"Word":"Retraction",
+		"Synonym":"withdrawal, cancellation of a statement"
+	},
+	{
+		"Word":"Titter",
+		"Synonym":"giggle quietly"
+	},
+	{
+		"Word":"Adversity",
+		"Synonym":"hardship"
+	},
+	{
+		"Word":"Broach",
+		"Synonym":"start to discuss, approach"
+	},
+	{
+		"Word":"Deference",
+		"Synonym":"respect"
+	},
+	{
+		"Word":"Esoteric",
+		"Synonym":"obscure and difficult to understand"
+	},
+	{
+		"Word":"Hoary",
+		"Synonym":"old"
+	},
+	{
+		"Word":"Lavish",
+		"Synonym":"on a grand scale, wasteful"
+	},
+	{
+		"Word":"Obtuse",
+		"Synonym":"mentally dull"
+	},
+	{
+		"Word":"Portent",
+		"Synonym":"a warning sign, omen"
+	},
+	{
+		"Word":"Revere",
+		"Synonym":"worship"
+	},
+	{
+		"Word":"Tome",
+		"Synonym":"large book"
+	},
+	{
+		"Word":"Advocate",
+		"Synonym":"support"
+	},
+	{
+		"Word":"Brusque",
+		"Synonym":"blunt, abrupt"
+	},
+	{
+		"Word":"Defoliate",
+		"Synonym":"cause leaves to fall off"
+	},
+	{
+		"Word":"Espouse",
+		"Synonym":"promote, take up, support"
+	},
+	{
+		"Word":"Hone",
+		"Synonym":"sharpen, increase, whet"
+	},
+	{
+		"Word":"Lax",
+		"Synonym":"careless, not strict"
+	},
+	{
+		"Word":"Obviate",
+		"Synonym":"avoid, make unnecessary"
+	},
+	{
+		"Word":"Poseur",
+		"Synonym":"someone who puts on an act"
+	},
+	{
+		"Word":"Riddled",
+		"Synonym":"full of (usually full of holes)"
+	},
+	{
+		"Word":"Torpid",
+		"Synonym":"inactive, lazy, stagnant"
+	},
+	{
+		"Word":"Aesthetic",
+		"Synonym":"concerning art or beauty"
+	},
+	{
+		"Word":"Bulwark",
+		"Synonym":"fortification, barricade, wall"
+	},
+	{
+		"Word":"Defunct",
+		"Synonym":"no longer in existence"
+	},
+	{
+		"Word":"Etymology",
+		"Synonym":"the study of word origins"
+	},
+	{
+		"Word":"Hyperbole",
+		"Synonym":"grossly exaggerated speech"
+	},
+	{
+		"Word":"Legend",
+		"Synonym":"key to map, myth or story"
+	},
+	{
+		"Word":"Odious",
+		"Synonym":"hateful"
+	},
+	{
+		"Word":"Posterity",
+		"Synonym":"future generations"
+	},
+	{
+		"Word":"Rife",
+		"Synonym":"common "
+	},
+	{
+		"Word":"Torpor",
+		"Synonym":"dormancy, sluggishness, inactivity"
+	},
+	{
+		"Word":"Affable",
+		"Synonym":"friendly, social, easygoing"
+	},
+	{
+		"Word":"Bureaucracy",
+		"Synonym":"officialdom"
+	},
+	{
+		"Word":"Degradation",
+		"Synonym":"deprivation, poverty, debasement"
+	},
+	{
+		"Word":"Eulogy",
+		"Synonym":"praise"
+	},
+	{
+		"Word":"Hypochondriac",
+		"Synonym":"a person obsessed with health; having imaginary illnesses"
+	},
+	{
+		"Word":"Legion",
+		"Synonym":"in large numbers"
+	},
+	{
+		"Word":"Officious",
+		"Synonym":"domineering, intrusive, meddlesome"
+	},
+	{
+		"Word":"Posthumous",
+		"Synonym":"after death"
+	},
+	{
+		"Word":"Rigor",
+		"Synonym":"thoroughness"
+	},
+	{
+		"Word":"Totter",
+		"Synonym":"walk unsteadily"
+	}
+	]
+}

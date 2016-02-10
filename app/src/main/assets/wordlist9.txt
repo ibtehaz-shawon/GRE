@@ -1,0 +1,411 @@
+{
+    "WordList4": [        
+
+        {
+            "Word"   : "Bane",
+            "Synonym": "troublesome influence"
+        },
+        {
+            "Word"   : "Condone",
+            "Synonym": "tacitly support; overlook"
+        },
+        {
+            "Word"   : "Eclectic",
+            "Synonym": "taking things from different sources"
+        },
+        {
+            "Word"   : "Genre",
+            "Synonym": "a category; type"
+        },
+        {
+            "Word"   : "Irascible",
+            "Synonym": "easily angered"
+        },
+        {
+            "Word"   : "Mundane",
+            "Synonym": "ordinary; worldly"
+        },
+        {
+            "Word"   : "Perpetuated",
+            "Synonym": "caused to continue"
+        },
+        {
+            "Word"   : "Rancor",
+            "Synonym": "resentment; animosity; bad feeling"
+        },
+         {
+            "Word"   : "Strut",
+            "Synonym": "swagger; show off"
+        },
+
+         {
+            "Word"   : "Voluble",
+            "Synonym": "talkative"
+        },
+
+         {
+            "Word"   : "Bard",
+            "Synonym": "poet"
+        },
+
+         {
+            "Word"   : "Condoning",
+            "Synonym": "overlooking; disregarding; ignoring"
+        },
+
+        {
+            "Word"   : "Edifice",
+            "Synonym": "building; structure; construction"
+        },
+         {
+            "Word"   : "Germane",
+            "Synonym": "relevant"
+        },
+         {
+            "Word"   : "Ire",
+            "Synonym": "anger [irate (a) = very angry]"
+        },
+         {
+            "Word"   : "Munificent",
+            "Synonym": "generous; charitable"
+        },
+         {
+            "Word"   : "Perpetuity",
+            "Synonym": "eternity"
+        },
+         {
+            "Word"   : "Rant",
+            "Synonym": "use bombastic language"
+        },
+         {
+            "Word"   : "Stupefying",
+            "Synonym": "astonishing; shocking; stunning into silence"
+        },
+         {
+            "Word"   : "Voluminous",
+            "Synonym": "very large; spacious"
+        },
+         {
+            "Word"   : "Bastion",
+            "Synonym": "fortress; stronghold"
+        },
+         {
+            "Word"   : "Conflagration",
+            "Synonym": "big fire"
+        },
+        {
+            "Word"   : "Efface",
+            "Synonym": "wipe out; remove all trace of"
+        },
+         {
+            "Word"   : "Germinal",
+            "Synonym": "just growing; not developed; immature"
+        },
+        {
+            "Word"   : "Irksome",
+            "Synonym": "annoying; infuriating"
+        },
+        {
+            "Word"   : "Mutinous",
+            "Synonym": "very rebellious"
+        },
+        {
+            "Word"   : "Personable",
+            "Synonym": "attractive"
+        },
+        {
+            "Word"   : "Ratify",
+            "Synonym": "approve; consent"
+        },
+        {
+            "Word"   : "Subpoena",
+            "Synonym": "summons to court"
+        },
+        {
+            "Word"   : "Voracious",
+            "Synonym": "ravenous"
+        },
+        {
+            "Word"   : "Befuddle",
+            "Synonym": "confuse"
+        },
+        {
+            "Word"   : "Confound",
+            "Synonym": "confuse"
+        },
+        {
+            "Word"   : "Effigy",
+            "Synonym": "a model of a person"
+        },
+         {
+            "Word"   : "Gibbering",
+            "Synonym": "making meaningless noises"
+        },
+        {
+            "Word"   : "Ironic",
+            "Synonym": "satiric; unexpected"
+        },
+        {
+            "Word"   : "Myriad",
+            "Synonym": "in large numbers"
+        },
+        {
+            "Word"   : "Perspicacious",
+            "Synonym": "insightful; sharp; wise"
+        },
+        {
+            "Word"   : "Raucous",
+            "Synonym": "rough and unpleasant (of sounds)"
+        },
+        {
+            "Word"   : "Substantiate",
+            "Synonym": "give supporting evidence"
+        },
+         {
+            "Word"   : "Waive",
+            "Synonym": "surrender; give up"
+        },
+        {
+            "Word"   : "Begrudge",
+            "Synonym": "resent"
+        },
+        {
+            "Word"   : "Congeal",
+            "Synonym": "to solidify"
+        },
+        {
+            "Word"   : "Effusive",
+            "Synonym": "gushing; demonstrative"
+        },
+        {
+            "Word"   : "Glacial",
+            "Synonym": "hostile; unfriendly; cold; icy"
+        },
+        {
+            "Word"   : "Irrational",
+            "Synonym": "unreasonable; absurd"
+        },
+        {
+            "Word"   : "Navigable",
+            "Synonym": "suitable for sailing"
+        },
+        {
+            "Word"   : "Perspicacity",
+            "Synonym": "insight"
+        },
+        {
+            "Word"   : "Raze",
+            "Synonym": "destroy; demolish; tear down"
+        },
+        {
+            "Word"   : "Subterfuge",
+            "Synonym": "a trick"
+        },
+        {
+            "Word"   : "Wane",
+            "Synonym": "grow less"
+        },
+        {
+            "Word"   : "Beguile",
+            "Synonym": "mislead; lure"
+        },
+        {
+            "Word"   : "Congenital",
+            "Synonym": "present from birth"
+        },
+        {
+            "Word"   : "Egalitarianism",
+            "Synonym": "belief in equality"
+        },
+         {
+            "Word"   : "Goad",
+            "Synonym": "prod; urge"
+        },
+         {
+            "Word"   : "Irreproachable",
+            "Synonym": "cannot be criticized; perfect"
+        },
+          {
+            "Word"   : "Nebulous",
+            "Synonym": "vague"
+        },
+         {
+            "Word"   : "Pertinent",
+            "Synonym": "relevant"
+        },
+         {
+            "Word"   : "Rebuttal",
+            "Synonym": "denial"
+        },
+         {
+            "Word"   : "Subtle",
+            "Synonym": "not obvious"
+        },
+         {
+            "Word"   : "Wary",
+            "Synonym": "hesitant; cautious"
+        },
+         {
+            "Word"   : "Belabor",
+            "Synonym": "explain in unnecessary detail"
+        },
+         {
+            "Word"   : "Connoisseur",
+            "Synonym": "person with refined taste and good judgment"
+        },
+         {
+            "Word"   : "Egregious",
+            "Synonym": "outstandingly, obviously bad"
+        },
+         {
+            "Word"   : "Grate (v)",
+            "Synonym": "1. to annoy; aggravate; vex; 2. shred"
+        },
+         {
+            "Word"   : "Irrevocable",
+            "Synonym": "cannot be cancelled; unchangeable"
+        },
+         {
+            "Word"   : "Nefarious",
+            "Synonym": "wicked; immoral; disreputable"
+        },
+         {
+            "Word"   : "Peruse",
+            "Synonym": "read carefully"
+        },
+         {
+            "Word"   : "Recant",
+            "Synonym": "disclaim; retract statement"
+        },
+        {
+            "Word"   : "Subversive",
+            "Synonym": "rebellious; revolutionary"
+        },
+         {
+            "Word"   : "Wax",
+            "Synonym": "to increase; to grow"
+        },
+         {
+            "Word"   : "Beleaguer",
+            "Synonym": "besiege; attack"
+        },
+         {
+            "Word"   : "Consecrate",
+            "Synonym": "dedicate"
+        },
+         {
+            "Word"   : "Egress",
+            "Synonym": "exit"
+        },
+         {
+            "Word"   : "Gratis",
+            "Synonym": "free of charge; without payment"
+        },
+         {
+            "Word"   : "Itinerant",
+            "Synonym": "nomadic; wandering from place to place"
+        },
+         {
+            "Word"   : "Negate",
+            "Synonym": "cancel; deny"
+        },
+         {
+            "Word"   : "Pervasive",
+            "Synonym": "spreading everywhere"
+        },
+         {
+            "Word"   : "Recapitulate",
+            "Synonym": "summarize"
+        },
+          {
+            "Word"   : "Succinct",
+            "Synonym": "concise"
+        },
+         {
+            "Word"   : "Waylay",
+            "Synonym": "accost; stop; approach; hinder"
+        },
+         {
+            "Word"   : "Belie",
+            "Synonym": "contradict"
+        },
+         {
+            "Word"   : "Consensus",
+            "Synonym": "general agreement"
+        },
+         {
+            "Word"   : "Eloquent",
+            "Synonym": "fluent and persuasive in speech"
+        },
+          {
+            "Word"   : "Gratuitous",
+            "Synonym": "unwarranted"
+        },
+         {
+            "Word"   : "Jaded",
+            "Synonym": "tired; bored; worn out"
+        },
+          {
+            "Word"   : "Negligence",
+            "Synonym": "carelessness"
+        },
+         {
+            "Word"   : "Petrify",
+            "Synonym": "1. terrify; 2. turn to stone"
+        },
+          {
+            "Word"   : "Receptacle",
+            "Synonym": "container; vessel; holder"
+        },
+         {
+            "Word"   : "Suffragist",
+            "Synonym": "someone who campaigns for voting rights"
+        },
+         {
+            "Word"   : "Weighty",
+            "Synonym": "serious"
+        },
+         {
+            "Word"   : "Belittle",
+            "Synonym": "to demean"
+        },
+         {
+            "Word"   : "Conspicuous",
+            "Synonym": "easily seen; prominent"
+        },
+        {
+            "Word"   : "Elucidate",
+            "Synonym": "make clear"
+        },
+      {
+            "Word"   : "Gravity",
+            "Synonym": "seriousness"
+        },
+      {
+            "Word"   : "Jargon",
+            "Synonym": "specialized language used by experts"
+        },
+      {
+            "Word"   : "Neologism",
+            "Synonym": "newly coined word"
+        },
+      {
+            "Word"   : "Petulant",
+            "Synonym": "sulky; peevish"
+        },
+      {
+            "Word"   : "Recluse",
+            "Synonym": "someone who cuts himself off from life"
+        },
+       {
+            "Word"   : "Supercilious",
+            "Synonym": "proud and haughty"
+        },
+       {
+            "Word"   : "Whelp",
+            "Synonym": "young dog"
+        }
+
+
+    ]
+}
