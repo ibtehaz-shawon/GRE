@@ -1,0 +1,410 @@
+{
+    "WordList2": [        
+
+        {
+            "Word"   : "Archetype",
+            "Synonym": "classic example of"
+        },
+        {
+            "Word"   : "Clemency",
+            "Synonym": "mercy"
+        },
+        {
+            "Word"   : "Disinterested",
+            "Synonym": "unbiased"
+        },
+        {
+            "Word"   : "Flout",
+            "Synonym": "defy; reject"
+        },
+        {
+            "Word"   : "Ingénue",
+            "Synonym": "naïve, unsophisticated person"
+        },
+        {
+            "Word"   : "Mendacious",
+            "Synonym": "given to lying"
+        },
+        {
+            "Word"   : "Paucity",
+            "Synonym": "shortage"
+        },
+        {
+            "Word"   : "Protean",
+            "Synonym": "changeable"
+        },
+         {
+            "Word"   : "Sophomoric",
+            "Synonym": "juvenile; immature"
+        },
+
+         {
+            "Word"   : "Venal",
+            "Synonym": "corrupt; can be bribed"
+        },
+
+         {
+            "Word"   : "Archives",
+            "Synonym": "collections of old records; place of storage of old documents"
+        },
+
+         {
+            "Word"   : "Cliche",
+            "Synonym": "overused expression; something unoriginal"
+        },
+
+        {
+            "Word"   : "Disparage",
+            "Synonym": "criticize; belittle"
+        },
+         {
+            "Word"   : "Flustered",
+            "Synonym": "worked-up; not calm"
+        },
+         {
+            "Word"   : "Ingrate",
+            "Synonym": "ungrateful person"
+        },
+         {
+            "Word"   : "Mercenary",
+            "Synonym": "concerned only with money"
+        },
+         {
+            "Word"   : "Peccadillo",
+            "Synonym": "minor weakness; trivial offence"
+        },
+         {
+            "Word"   : "Protégé",
+            "Synonym": "person under protection of, or guided by another"
+        },
+         {
+            "Word"   : "Soporific",
+            "Synonym": "inducing sleep"
+        },
+         {
+            "Word"   : "Veneer",
+            "Synonym": "surface coating"
+        },
+         {
+            "Word"   : "Articulate",
+            "Synonym": "clear; lucid; eloquent"
+        },
+         {
+            "Word"   : "Clientele",
+            "Synonym": "customers"
+        },
+        {
+            "Word"   : "Disparity",
+            "Synonym": "an inequality"
+        },
+         {
+            "Word"   : "Fly-by-night",
+            "Synonym": "unreliable; disreputable"
+        },
+        {
+            "Word"   : "Inimical",
+            "Synonym": "hostile"
+        },
+        {
+            "Word"   : "Mercurial",
+            "Synonym": "volatile; changeable"
+        },
+        {
+            "Word"   : "Pedant",
+            "Synonym": "person who insists on strict adherence to rules or narrow learning"
+        },
+        {
+            "Word"   : "Protocol",
+            "Synonym": "procedure; code of behavior"
+        },
+        {
+            "Word"   : "Sparse",
+            "Synonym": "spare; bare; meager"
+        },
+        {
+            "Word"   : "Venerate",
+            "Synonym": "revere; worship"
+        },
+        {
+            "Word"   : "Artifice",
+            "Synonym": "deception; trickery"
+        },
+        {
+            "Word"   : "Coalesce",
+            "Synonym": "come together; merge"
+        },
+        {
+            "Word"   : "Dispassionate",
+            "Synonym": "neutral; objective"
+        },
+         {
+            "Word"   : "Forensic",
+            "Synonym": "concerned with argument or debate (esp. for legal evidence)"
+        },
+        {
+            "Word"   : "Innate",
+            "Synonym": "inherited; inborn"
+        },
+        {
+            "Word"   : "Merge",
+            "Synonym": "come together"
+        },
+        {
+            "Word"   : "Pedestrian",
+            "Synonym": "common; mundane; banal"
+        },
+        {
+            "Word"   : "Provincial",
+            "Synonym": "unsophisticated; narrow-minded"
+        },
+        {
+            "Word"   : "Specious",
+            "Synonym": "false"
+        },
+         {
+            "Word"   : "Venial",
+            "Synonym": "minor; unimportant"
+        },
+        {
+            "Word"   : "Artisan",
+            "Synonym": "craftsman"
+        },
+        {
+            "Word"   : "Coddle",
+            "Synonym": "pamper; fuss over; indulge"
+        },
+        {
+            "Word"   : "Disseminating",
+            "Synonym": "circulating; broadcasting; spreading (information)"
+        },
+        {
+            "Word"   : "Fortitude",
+            "Synonym": "bravery"
+        },
+        {
+            "Word"   : "Innocuous",
+            "Synonym": "harmless; inoffensive"
+        },
+        {
+            "Word"   : "Metaphorically",
+            "Synonym": "symbolically; figuratively"
+        },
+        {
+            "Word"   : "Peerless",
+            "Synonym": "without equal"
+        },
+        {
+            "Word"   : "Prudent",
+            "Synonym": "cautious; wise"
+        },
+        {
+            "Word"   : "Speckled",
+            "Synonym": "spotted; freckled; dotted"
+        },
+        {
+            "Word"   : "Veracity",
+            "Synonym": "truthfulness"
+        },
+        {
+            "Word"   : "Ascetic",
+            "Synonym": "without luxuries; severely simple"
+        },
+        {
+            "Word"   : "Coercion",
+            "Synonym": "force"
+        },
+        {
+            "Word"   : "Diurnal",
+            "Synonym": "active in daytime"
+        },
+         {
+            "Word"   : "Fortuitous",
+            "Synonym": "happening by chance"
+        },
+         {
+            "Word"   : "Innovate",
+            "Synonym": "create; introduce something new"
+        },
+          {
+            "Word"   : "Meticulous",
+            "Synonym": "very careful; painstaking"
+        },
+         {
+            "Word"   : "Pejorative",
+            "Synonym": "derogatory"
+        },
+         {
+            "Word"   : "Puerile",
+            "Synonym": "childish"
+        },
+         {
+            "Word"   : "Sporadic",
+            "Synonym": "not continuous; intermittent"
+        },
+         {
+            "Word"   : "Verbose",
+            "Synonym": "talkative; long-winded; rambling"
+        },
+         {
+            "Word"   : "Assiduous",
+            "Synonym": "thorough; diligent"
+        },
+         {
+            "Word"   : "Cogent",
+            "Synonym": "lucid; well argued"
+        },
+         {
+            "Word"   : "Divert",
+            "Synonym": "entertain; istract; cause a detour"
+        },
+         {
+            "Word"   : "Fractious",
+            "Synonym": "irritable; difficult to control"
+        },
+         {
+            "Word"   : "Inscrutable",
+            "Synonym": "mysterious; impenetrable"
+        },
+         {
+            "Word"   : "Mettle",
+            "Synonym": "courage; bravery; valor"
+        },
+         {
+            "Word"   : "Pellucid",
+            "Synonym": "transparently clear"
+        },
+         {
+            "Word"   : "Punctilious",
+            "Synonym": "paying attention to small details"
+        },
+        {
+            "Word"   : "Spurious",
+            "Synonym": "false"
+        },
+         {
+            "Word"   : "Verbosity",
+            "Synonym": "using too many words"
+        },
+         {
+            "Word"   : "Assuage",
+            "Synonym": "to calm"
+        },
+         {
+            "Word"   : "Cogitate",
+            "Synonym": "think over something; ponder"
+        },
+         {
+            "Word"   : "Docile",
+            "Synonym": "gentle and easily lead"
+        },
+         {
+            "Word"   : "Fraudulent",
+            "Synonym": "fake; false"
+        },
+         {
+            "Word"   : "Insentient",
+            "Synonym": "unfeeling"
+        },
+         {
+            "Word"   : "Milieu",
+            "Synonym": "environment"
+        },
+         {
+            "Word"   : "Pensive",
+            "Synonym": "in a thoughtful mood; thinking deeply"
+        },
+         {
+            "Word"   : "Purloin",
+            "Synonym": "steal"
+        },
+          {
+            "Word"   : "Stagnant",
+            "Synonym": "still; not moving"
+        },
+         {
+            "Word"   : "Vertigo",
+            "Synonym": "dizziness"
+        },
+         {
+            "Word"   : "Astute",
+            "Synonym": "perceptive; sharp-witted"
+        },
+         {
+            "Word"   : "Collage",
+            "Synonym": "picture made from fragments of other pictures"
+        },
+         {
+            "Word"   : "Dogmatic",
+            "Synonym": "having stubbornly held opinions"
+        },
+          {
+            "Word"   : "Frivolous",
+            "Synonym": "not serious"
+        },
+         {
+            "Word"   : "Insipid",
+            "Synonym": "dull; bland; boring"
+        },
+          {
+            "Word"   : "Mire",
+            "Synonym": "swamp; muddy ground"
+        },
+         {
+            "Word"   : "Penury",
+            "Synonym": "poverty"
+        },
+          {
+            "Word"   : "Pusillanimous",
+            "Synonym": "cowardly"
+        },
+         {
+            "Word"   : "Staid",
+            "Synonym": "dull; sober; serious"
+        },
+         {
+            "Word"   : "Vestigial",
+            "Synonym": "not developed"
+        },
+         {
+            "Word"   : "Asylum",
+            "Synonym": "place of refuge or safety"
+        },
+         {
+            "Word"   : "Collate",
+            "Synonym": "arrange in order"
+        },
+        {
+            "Word"   : "Dolt",
+            "Synonym": "stupid person"
+        },
+      {
+            "Word"   : "Frugal",
+            "Synonym": "economical; not wasting anything"
+        },
+      {
+            "Word"   : "Instigate",
+            "Synonym": "to start; provoke"
+        },
+      {
+            "Word"   : "Misanthrope",
+            "Synonym": "hater of the rest of mankind"
+        },
+      {
+            "Word"   : "Perceptive",
+            "Synonym": "observant"
+        },
+      {
+            "Word"   : "Pyromania",
+            "Synonym": "compulsion to start fires"
+        },
+       {
+            "Word"   : "Stanza",
+            "Synonym": "section of a poem"
+        },
+       {
+            "Word"   : "Vignette",
+            "Synonym": "small sketch"
+        }
+
+    ]
+}

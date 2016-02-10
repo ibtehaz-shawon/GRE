@@ -1,0 +1,504 @@
+{
+    "WordList5": [
+        {
+            
+            "Word": "Anecdote",
+            "Synonym": "a brief amusing story"
+        },
+        {
+            
+            "Word": "Celerity",
+            "Synonym": "speed"
+        },
+        {
+            
+            "Word": "Dexterous",
+            "Synonym": "skilful with hands"
+        },
+        {
+            
+            "Word": "Extraneous",
+            "Synonym": "irrelevant"
+        },
+        {
+            
+            "Word": "Incoherent",
+            "Synonym": "not clear"
+        },
+        {
+            
+            "Word": "Maladroit",
+            "Synonym": "clumsy; unskillful"
+        },
+        {
+            
+            "Word": "Pallid",
+            "Synonym": "pale"
+        },
+        {
+            
+            "Word": "Presumptuous",
+            "Synonym": "assuming too much; arrogant"
+        },
+        {
+            
+            "Word": "Scrupulous",
+            "Synonym": "careful; diligent; painstaking"
+        },
+        {
+            
+            "Word": "Unequivocal",
+            "Synonym": "clear; obvious"
+        },
+        {
+            
+            "Word": "Animosity",
+            "Synonym": "hatred; antagonism"
+        },
+        {
+            
+            "Word": "Censorious",
+            "Synonym": "disapproving; critical"
+        },
+        {
+            
+            "Word": "Dichotomy",
+            "Synonym": "a division into two parts"
+        },
+        {
+            
+            "Word": "Extrapolate",
+            "Synonym": "extend; predict on the basis of known data"
+        },
+        {
+            
+            "Word": "Incongruous",
+            "Synonym": "not fitting in; out of place"
+        },
+        {
+            
+            "Word": "Malady",
+            "Synonym": "illness"
+        },
+        {
+            
+            "Word": "Palpable",
+            "Synonym": "easily felt; easily perceived"
+        },
+        {
+            
+            "Word": "Pretentious",
+            "Synonym": "pompous; self-important"
+        },
+        {
+            
+            "Word": "Scrutinize",
+            "Synonym": "examine carefully"
+        },
+        {
+            
+            "Word": "Unfetter",
+            "Synonym": "set free"
+        },
+        {
+            
+            "Word": "Annex (n) ",
+            "Synonym": "a building which is an addition to an existing building"
+        },
+        {
+            
+            "Word": "Censure",
+            "Synonym": "blame"
+        },
+        {
+            
+            "Word": "Didactic",
+            "Synonym": "intended to teach; instructive"
+        },
+        {
+            
+            "Word": "Extrinsic",
+            "Synonym": "irrelevant; on the outside"
+        },
+        {
+            
+            "Word": "Inconsequential",
+            "Synonym": "unimportant; insignificant; negligible"
+        },
+        {
+            
+            "Word": "Malediction",
+            "Synonym": "a curse"
+        },
+        {
+            
+            "Word": "Panacea",
+            "Synonym": "remedy for all ills"
+        },
+        {
+            
+            "Word": "Prevaricate",
+            "Synonym": "speak misleadingly and evasively"
+        },
+        {
+            
+            "Word": "Scuttle",
+            "Synonym": "sink"
+        },
+        {
+            
+            "Word": "Unfrock",
+            "Synonym": "to remove a priest from his position"
+        },
+        {
+            
+            "Word": "Annex (v)",
+            "Synonym": "take possession of; seize; capture"
+        },
+        {
+            
+            "Word": "Cerebral",
+            "Synonym": "intellectual"
+        },
+        {
+            
+            "Word": "Diffident",
+            "Synonym": "lacking confidence"
+        },
+        {
+            
+            "Word": "Fallacious",
+            "Synonym": "false"
+        },
+        {
+            
+            "Word": "Inconspicuous",
+            "Synonym": "not easily seen; subtle; not noticeable"
+        },
+        {
+            
+            "Word": "Malefactor",
+            "Synonym": "a wrong-doer"
+        },
+        {
+            
+            "Word": "Paradigm",
+            "Synonym": "1. example; 2. model; 3. way of looking at things"
+        },
+        {
+            
+            "Word": "Pristine",
+            "Synonym": "unspoiled"
+        },
+        {
+            
+            "Word": "Seminary",
+            "Synonym": "an institution in which priests are trained"
+        },
+        {
+            
+            "Word": "Unprecedented",
+            "Synonym": "never having happened before"
+        },
+        {
+            
+            "Word": "Anomaly",
+            "Synonym": "something which does not fit in a pattern; irregularity"
+        },
+        {
+            
+            "Word": "Certitude",
+            "Synonym": "certainty"
+        },
+        {
+            
+            "Word": "Digress",
+            "Synonym": "wander off the subject"
+        },
+        {
+            
+            "Word": "Falter",
+            "Synonym": "hesitate; waver"
+        },
+        {
+            
+            "Word": "Indelible",
+            "Synonym": "cannot be wiped out"
+        },
+        {
+            
+            "Word": "Malinger",
+            "Synonym": "deliberately avoid work; shirk"
+        },
+        {
+            
+            "Word": "Paradox",
+            "Synonym": "apparently contradictory statement"
+        },
+        {
+            
+            "Word": "Proclivity",
+            "Synonym": "tendency towards"
+        },
+        {
+            
+            "Word": "Sensuous",
+            "Synonym": "appealing to the senses"
+        },
+        {
+            
+            "Word": "Unscathed",
+            "Synonym": "unharmed; intact; without a scratch"
+        },
+        {
+            
+            "Word": "Antagonism",
+            "Synonym": "hostility; strong opposition"
+        },
+        {
+            
+            "Word": "Charlatan",
+            "Synonym": "trickster who claims knowledge he doesn't have "
+        },
+        {
+            
+            "Word": "Dike",
+            "Synonym": "dam; embankment"
+        },
+        {
+            
+            "Word": "Fanatical",
+            "Synonym": "obsessive; fixated"
+        },
+        {
+            
+            "Word": "Indifferent",
+            "Synonym": "1. neutral; 2. not outstanding"
+        },
+        {
+            
+            "Word": "Malingerer",
+            "Synonym": "person who deliberately tries to avoid work"
+        },
+        {
+            
+            "Word": "Paragon",
+            "Synonym": "a perfect example"
+        },
+        {
+            
+            "Word": "Procrastinate",
+            "Synonym": "delay; put off"
+        },
+        {
+            
+            "Word": "Sentinel",
+            "Synonym": "guard; sentry"
+        },
+        {
+            
+            "Word": "Unwitting",
+            "Synonym": "not deliberate; unconscious"
+        },
+        {
+            
+            "Word": "Antagonistic",
+            "Synonym": "opposed; hostile; aggressive"
+        },
+        {
+            
+            "Word": "Chary",
+            "Synonym": "wary of; cautious about; reluctant to give"
+        },
+        {
+            
+            "Word": "Dilatory",
+            "Synonym": "slow; falling behind with one's work"
+        },
+        {
+            
+            "Word": "Fanaticism",
+            "Synonym": "passion; excessive devotion"
+        },
+        {
+            
+            "Word": "Indigenous",
+            "Synonym": "native to a particular area"
+        },
+        {
+            
+            "Word": "Malleable",
+            "Synonym": "flexible; can be shaped"
+        },
+        {
+            
+            "Word": "Paramount",
+            "Synonym": "of supreme importance"
+        },
+        {
+            
+            "Word": "Prodigal",
+            "Synonym": "wasteful; extravagant"
+        },
+        {
+            
+            "Word": "Sequester",
+            "Synonym": "isolate"
+        },
+        {
+            
+            "Word": "Upbraid",
+            "Synonym": "scold; tell off; reprimand"
+        },
+        {
+            
+            "Word": "Antediluvian",
+            "Synonym": "outdated; prehistoric; very old-fashioned"
+        },
+        {
+            
+            "Word": "Chastises",
+            "Synonym": "punishes"
+        },
+        {
+            
+            "Word": "Dilemma",
+            "Synonym": "puzzling situation"
+        },
+        {
+            
+            "Word": "Fastidious",
+            "Synonym": "overly particular; finicky"
+        },
+        {
+            
+            "Word": "Indolence",
+            "Synonym": "laziness"
+        },
+        {
+            
+            "Word": "Mallet",
+            "Synonym": "1. wooden hammer; 2. stick used for polo"
+        },
+        {
+            
+            "Word": "Parasite",
+            "Synonym": "1. scrounger; 2. animal which takes digested food from another"
+        },
+        {
+            
+            "Word": "Prodigious",
+            "Synonym": "very large"
+        },
+        {
+            
+            "Word": "Serendipity",
+            "Synonym": "fortunate coincidence; unsought discovery"
+        },
+        {
+            
+            "Word": "Uproarious",
+            "Synonym": "hilarious; hysterical; very funny"
+        },
+        {
+            
+            "Word": "Anthology",
+            "Synonym": "a book which is a collection of poems or stories"
+        },
+        {
+            
+            "Word": "Chicanery",
+            "Synonym": "trickery"
+        },
+        {
+            
+            "Word": "Dilettante",
+            "Synonym": "person who dabbles in a subject without serious study"
+        },
+        {
+            
+            "Word": "Fatuous",
+            "Synonym": "silly; foolish"
+        },
+        {
+            
+            "Word": "Inductee",
+            "Synonym": "novice; beginner"
+        },
+        {
+            
+            "Word": "Manipulatable",
+            "Synonym": "influencable; controllable"
+        },
+        {
+            
+            "Word": "Parched",
+            "Synonym": "dried up"
+        },
+        {
+            
+            "Word": "Profane",
+            "Synonym": "unholy"
+        },
+        {
+            
+            "Word": "Serene",
+            "Synonym": "calm; peaceful"
+        },
+        {
+            
+            "Word": "Upshot",
+            "Synonym": "outcome"
+        },
+        {
+            
+            "Word": "Anthropocentrism",
+            "Synonym": "putting man at the center of one's philosophy"
+        },
+        {
+            
+            "Word": "Chimerical",
+            "Synonym": "changeable; unstable"
+        },
+        {
+            
+            "Word": "Diligent",
+            "Synonym": "hard-working"
+        },
+        {
+            
+            "Word": "Feasible",
+            "Synonym": "possible and practicable"
+        },
+        {
+            
+            "Word": "Indulgent",
+            "Synonym": "pampering; satisfying desires"
+        },
+        {
+            
+            "Word": "Marred",
+            "Synonym": "damaged; spoiled"
+        },
+        {
+            
+            "Word": "Pariah",
+            "Synonym": "an outcast from society"
+        },
+        {
+            
+            "Word": "Profanity",
+            "Synonym": "swearing; cursing"
+        },
+        {
+            
+            "Word": "Serrated",
+            "Synonym": "jagged; saw-like"
+        },
+        {
+            
+            "Word": "Urbane",
+            "Synonym": "sophisticated; suave"
+        }
+     ]
+}

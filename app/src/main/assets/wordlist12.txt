@@ -1,0 +1,407 @@
+{
+    "WordList2": [
+        {
+            
+            "Word": "Abysmal",
+            "Synonym": "very deep; very bad"
+        },
+        {
+            "Word": "Approbation",
+            "Synonym": "approval [opp. disapprobation]"
+        } ,
+        {
+            "Word": "Bent (n)",
+            "Synonym": "inclination; aptitude"
+        } ,
+        {
+            "Word": "Cadge",
+            "Synonym": "get by begging"
+        } ,
+        {
+            "Word": "Debacle",
+            "Synonym": "disaster"
+        } ,
+        {
+            "Word": "Extemporize",
+            "Synonym": "speak without preparation or rehearsal [extemporaneous (a)]"
+        } ,
+        {
+            "Word": "Incumbents",
+            "Synonym": "occupiers of a job or position"
+        } ,
+        {
+            "Word": "Lambaste",
+            "Synonym": "attack verbally"
+        } ,
+        {
+            "Word": "Noisome",
+            "Synonym": "disgusting"
+        } ,
+        {
+            "Word": "Pastiche",
+            "Synonym": "work (usually artistic) which imitates, or is composed of parts taken from varied sources"
+        } ,
+        {
+            "Word": "Arboreal",
+            "Synonym": "living in trees; concerned with trees"
+        } ,
+        {
+            "Word": "Centrifuge",
+            "Synonym": "device to separate substances by spinning them at high speed"
+        } ,
+        {
+            "Word": "Cloistered",
+            "Synonym": "isolated"
+        } ,
+        {
+            "Word": "Disabuse",
+            "Synonym": "make someone aware of an error in thinking"
+        } ,
+        {
+            "Word": "Engendering",
+            "Synonym": "causing; bringing into being [engender (v)]"
+        } ,
+        {
+            "Word": "Intemperate",
+            "Synonym": "excessive; immoderate [intemperance (n)]"
+        } ,
+        {
+            "Word": "Lugubrious",
+            "Synonym": "sad; gloomy"
+        } ,
+        {
+            "Word": "Nonplussed",
+            "Synonym": "confused"
+        } ,
+        {
+            "Word": "Pedagogy",
+            "Synonym": "science of education; teaching"
+        } ,
+        {
+            "Word": "Satiate",
+            "Synonym": "satisfy; fill completely [satiable (a); satiation (n)]"
+        } ,
+        {
+            "Word": "Artless",
+            "Synonym": "without effort; without trickery; simple"
+        } ,
+        {
+            "Word": "Comeliness",
+            "Synonym": "beauty; prettiness [comely (a)]"
+        } ,
+        {
+            "Word": "Doff",
+            "Synonym": "take off (esp. of a hat)"
+        } ,
+        {
+            "Word": "Don",
+            "Synonym": "put on (esp. of clothes)"
+        } ,
+        {
+            "Word": "Erudition",
+            "Synonym": "learning; scholarly knowledge [erudite (a)]"
+        } ,
+        {
+            "Word": "Plaintive",
+            "Synonym": "sad; mournful"
+        } ,
+        {
+            "Word": "Suborn",
+            "Synonym": "bribe"
+        } ,
+        {
+            "Word": "Tendentious",
+            "Synonym": "dogmatic; biased"
+        } ,
+        {
+            "Word": "Tortuous",
+            "Synonym": "indirect; winding"
+        } ,
+        {
+            "Word": "Verbiage",
+            "Synonym": "excessive or meaningless wordiness"
+        } ,
+        {
+            "Word": "Atonement",
+            "Synonym": "making amends for sin or crime [atone (v)]"
+        } ,
+        {
+            "Word": "Complaisance",
+            "Synonym": "flexibility; willingness to please [complaisant (a)]"
+        } ,
+        {
+            "Word": "Daguerreotype",
+            "Synonym": "forerunner of the photograph"
+        } ,
+        {
+            "Word": "Fawn",
+            "Synonym": "behave in a sycophantic way; grovel [fawning (a)]"
+        } ,
+        {
+            "Word": "Gregariousness",
+            "Synonym": "sociability; liking for crowds [gregarious (a)]"
+        } ,
+        {
+            "Word": "Nascent",
+            "Synonym": "emerging; newly formed"
+        } ,
+        {
+            "Word": "Paean",
+            "Synonym": "praise; tribute (esp. in song)"
+        } ,
+        {
+            "Word": "Reproof",
+            "Synonym": "scolding; criticism [reprove (v)]"
+        } ,
+        {
+            "Word": "Scurvy",
+            "Synonym": "1. disease due to lack of vitamin C; 2. contemptible; rascally"
+        } ,
+        {
+            "Word": "Tutelary",
+            "Synonym": "serving as a guardian [tutelage (n)]"
+        } ,
+        {
+            "Word": "Abscission",
+            "Synonym": "cutting; process causing leaves to fall off"
+        } ,
+        {
+            "Word": "Contentious",
+            "Synonym": "causing argument [contention (n); contend (v)]"
+        } ,
+        {
+            "Word": "Debilitating",
+            "Synonym": "weakening [debilitate (v)]"
+        } ,
+        {
+            "Word": "Foible",
+            "Synonym": "quirk; minor weakness"
+        } ,
+        {
+            "Word": "Importune",
+            "Synonym": "beg; solicit [importunate (a)]"
+        } ,
+        {
+            "Word": "Pertain",
+            "Synonym": "be relevant to [pertinent (a)]"
+        } ,
+        {
+            "Word": "Slew",
+            "Synonym": "glut; excess"
+        } ,
+        {
+            "Word": "Toady",
+            "Synonym": "sycophant; flatterer"
+        } ,
+        {
+            "Word": "Torrid",
+            "Synonym": "hot and steamy"
+        } ,
+        {
+            "Word": "Veracious",
+            "Synonym": "true [veracity (n)]"
+        } ,
+        {
+            "Word": "Asperity",
+            "Synonym": "using harsh or critical tone"
+        } ,
+        {
+            "Word": "Blowhard",
+            "Synonym": "boastful person"
+        } ,
+        {
+            "Word": "Disingenuous",
+            "Synonym": "crafty"
+        } ,
+        {
+            "Word": "Evanescent",
+            "Synonym": "short-lived [evanescence (n)]"
+        } ,
+        {
+            "Word": "Intangible",
+            "Synonym": "cannot be touched; abstract [intangibility (n)]"
+        } ,
+        {
+            "Word": "Labile",
+            "Synonym": "changing rapidly; unstable"
+        } ,
+        {
+            "Word": "Malapropism",
+            "Synonym": "use of similar sounding but incorrect word"
+        } ,
+        {
+            "Word": "Posture (v)",
+            "Synonym": "to put on an act"
+        } ,
+        {
+            "Word": "Proximate",
+            "Synonym": "immediate; nearest"
+        } ,
+        {
+            "Word": "Pugnacious",
+            "Synonym": "aggressive, ready to fight [pugnacity (n)]"
+        } ,
+        {
+            "Word": "Foreshadowed",
+            "Synonym": "indicated a future event [foreshadow (v)]"
+        } ,
+        {
+            "Word": "Gaucherie",
+            "Synonym": "awkwardness [gauche (a)]"
+        } ,
+        {
+            "Word": "Heterodox",
+            "Synonym": "unorthodox"
+        } ,
+        {
+            "Word": "Inscrutability ",
+            "Synonym": "
+quality of being difficult to comprehend [inscrutable (a)]"
+        } ,
+        {
+            "Word": "Limerick",
+            "Synonym": "short amusing poem"
+        } ,
+        {
+            "Word": "Mannered",
+            "Synonym": "stylized; pretentious"
+        } ,
+        {
+            "Word": "Pluck (n)",
+            "Synonym": "courage"
+        } ,
+        {
+            "Word": "Sedulous",
+            "Synonym": "persevering; eager and thorough"
+        } ,
+        {
+            "Word": "Syllogism",
+            "Synonym": "type of logical reasoning"
+        } ,
+        {
+            "Word": "Vicissitude",
+            "Synonym": "unexpected change in fortune or circumstances"
+        } ,
+        {
+            "Word": "Acolyte",
+            "Synonym": "disciple; follower or attendant"
+        } ,
+        {
+            "Word": "Admonitory",
+            "Synonym": "scolding [admonition (n)]"
+        } ,
+        {
+            "Word": "Caprices",
+            "Synonym": "whimsies; fancies"
+        } ,
+        {
+            "Word": "Cornucopia",
+            "Synonym": "
+symbol (horn filled with fruit etc.) denoting natural abundance"
+        } ,
+        {
+            "Word": "Deferential",
+            "Synonym": "showing respect [deference (n); defer (v)]"
+        } ,
+        {
+            "Word": "Intractability",
+            "Synonym": "stubbornness; resistance [intractable (a)]"
+        } ,
+        {
+            "Word": "Luminary",
+            "Synonym": "eminent person"
+        } ,
+        {
+            "Word": "Minion",
+            "Synonym": "underling; servant"
+        } ,
+        {
+            "Word": "Undergird",
+            "Synonym": "support; strengthen"
+        } ,
+        {
+            "Word": "Vitiate",
+            "Synonym": "weaken; sap energy"
+        } ,
+        {
+            "Word": "Coterie",
+            "Synonym": "clique; small group with common interests"
+        } ,
+        {
+            "Word": "Denigrate",
+            "Synonym": "decry; criticize; belittle"
+        } ,
+        {
+            "Word": "Empirical",
+            "Synonym": "found by experiment or practice"
+        } ,
+        {
+            "Word": "Gainsay",
+            "Synonym": "contradict"
+        } ,
+        {
+            "Word": "Hyperbole",
+            "Synonym": "exaggeration [hyperbolic (a)]"
+        } ,
+        {
+            "Word": "Modest",
+            "Synonym": "1. bashful; unpretentious; 2. not excessive"
+        } ,
+        {
+            "Word": "Prolixity",
+            "Synonym": "wordiness [prolix (a)]"
+        } ,
+        {
+            "Word": "Rebus",
+            "Synonym": "puzzle in which pictures give clues"
+        } ,
+        {
+            "Word": "Sere",
+            "Synonym": "withered; old"
+        } ,
+        {
+            "Word": "Vulpine",
+            "Synonym": "like a fox [compare with bovine (cow-like); porcine (pig-like), etc.]"
+        } ,
+        {
+            "Word": "Corroborate",
+            "Synonym": "give supporting evidence [corroboration (n)]"
+        } ,
+        {
+            "Word": "Exacerbated",
+            "Synonym": "made worse [exacerbate (v); exacerbation (n)]"
+        } ,
+        {
+            "Word": "Exact (v)",
+            "Synonym": "to demand; extort"
+        } ,
+        {
+            "Word": "Faddish",
+            "Synonym": "whimsical; following a fashion"
+        } ,
+        {
+            "Word": "Hapless",
+            "Synonym": "unlucky"
+        } ,
+        {
+            "Word": "Misconstrue",
+            "Synonym": "put a wrong interpretation on something"
+        } ,
+        {
+            "Word": "Perennial",
+            "Synonym": "long-lasting"
+        } ,
+        {
+            "Word": "Rent",
+            "Synonym": "torn (past participle of the verb to rend)"
+        } ,
+        {
+            "Word": "Shard",
+            "Synonym": "fragment of pottery"
+        } ,
+        {
+            "Word": "Xenophobe",
+            "Synonym": "person afraid of foreigners"
+        }
+    ]
+}
