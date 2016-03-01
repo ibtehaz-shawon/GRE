@@ -63,15 +63,11 @@ public class Favourite_Words extends AppCompatActivity {
 
         if(!flag) {
 
-            if (minus > 0) {
-                array = new int[temp.length - 1];
-            }
-            else {
-                array = new int[temp.length];
-            }
+            array = new int[temp.length-minus];
 
             for (int i = 0; i < array.length; i++) {
-                array[i] = temp[i];
+                if(temp[i] != -1)
+                    array[i] = temp[i];
             }
             loadArray();
 
@@ -95,7 +91,7 @@ public class Favourite_Words extends AppCompatActivity {
             tv[0].setId(0);
             tv[0].setTextColor(Color.WHITE);
 
-            tv[0].setText("We are extremely sorry!\nWe have nothign to show here!" +
+            tv[0].setText("We are extremely sorry!\nWe have nothing to show here!" +
                     "\nWhy don't you check some of our words and their meaning!!");
             linear.addView(tv[0]);
 
@@ -142,12 +138,14 @@ public class Favourite_Words extends AppCompatActivity {
     private int[] arrayMake(String temp)
     {
         String [] array = temp.split(",");
-        int[]arrayReturn = new int[array.length-1];
+        //int[]arrayReturn = new int[array.length-1];
+        int[]arrayReturn = new int[array.length];
+
 
 
         for(int i = 0; i < arrayReturn.length;i++)
         {
-            arrayReturn[i] = Integer.parseInt(array[i+1]);
+            arrayReturn[i] = Integer.parseInt(array[i]);
         }
 
         for(int i = 0; i < arrayReturn.length; i++)
@@ -156,7 +154,7 @@ public class Favourite_Words extends AppCompatActivity {
             {
                 if(arrayReturn[i] == arrayReturn[j])
                 {
-                    arrayReturn[j] = -1;
+                    arrayReturn[j] = -1; // check here
                     minus++;
                 }
             }

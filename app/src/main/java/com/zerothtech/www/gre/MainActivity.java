@@ -1,5 +1,7 @@
 package com.zerothtech.www.gre;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
@@ -31,8 +33,9 @@ public class MainActivity extends AppCompatActivity {
 
         final int number_of_favourite = favouriteText();
 
-        AppRater ar = new AppRater();
-        ar.app_launched(this);
+        //ToDo
+        //AppRater ar = new AppRater();
+        //ar.app_launched(this);
 
 
         words.setOnClickListener(new View.OnClickListener() {
@@ -102,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_stat) {
+
             startActivity(i2);
         }
         else if(id == R.id.action_about)
@@ -112,6 +116,39 @@ public class MainActivity extends AppCompatActivity {
         {
             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.zerothtech.www.gre")));
             Toast.makeText(getApplicationContext(),"Thank you for your rating", Toast.LENGTH_LONG).show();
+        }
+        else if(id == R.id.action_reset)
+        {
+            AlertDialog.Builder builder = new AlertDialog.Builder(this);
+            builder.setMessage("You are going to reset the word counter and delete all your favourite words. Click YES to confirm" +
+                    '\n'+"This process is irreversable!")
+
+                    .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialogInterface, int i) {
+
+                            SharedPreferences preferences = getSharedPreferences("number", 0);
+                            boolean flag1 = preferences.edit().remove("star2").commit();
+                            boolean flag2 = preferences.edit().remove("index").commit();
+                            boolean flag3 = preferences.edit().remove("quizCounter").commit();
+                            boolean flag4 = preferences.edit().remove("correctVal").commit();
+
+                            if (flag1 && flag2 && flag3 && flag4)
+                                Toast.makeText(getApplicationContext(), "Done", Toast.LENGTH_LONG).show();
+                            else
+                                Toast.makeText(getApplicationContext(), "Failed", Toast.LENGTH_LONG).show();
+
+                        }
+                    })
+                    .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialogInterface, int i) {
+                            Toast.makeText(getApplicationContext(), "Cancelled", Toast.LENGTH_SHORT).show();
+                            finish();
+                        }
+                    });
+            builder.create();
+            builder.show();
         }
 
         return super.onOptionsItemSelected(item);

@@ -5,6 +5,9 @@ import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import java.text.DecimalFormat;
 
 public class Statistics extends AppCompatActivity {
 
@@ -24,7 +27,7 @@ public class Statistics extends AppCompatActivity {
 
         if(wordRead == -1)
         {
-            line1 = "You did not check any word yet. Why don't you try some of those?";
+            line1 = "You did not read any word yet. Give it a try";
         }
         else
         {
@@ -39,7 +42,7 @@ public class Statistics extends AppCompatActivity {
 
         if(fav_text == 0)
         {
-            line2 = "You have not marked any word your favourites";
+            line2 = "You have not marked any your favourites";
         }
         else
         {
@@ -50,17 +53,32 @@ public class Statistics extends AppCompatActivity {
 
         int correct = getCorrect(this);
         int quizCounter = getQuizCounter(this);
-        int success = (int)(correct / (quizCounter *10)*100);
+        double success = 0;
+        if(quizCounter != 0)
+        {
+            success = (correct / (quizCounter *10.0))*100;
+        }
+
+        String value_success = new DecimalFormat("##.##").format(success);
 
         String line3 = "";
         if(quizCounter > 0)
         {
-            line3 = "You have successfully answered "+correct+" out of "+quizCounter*10+" quiz questions! Good job!";
-            line3 = line3 + "(" +success+"%).";
+            if(success > 50.00)
+            {
+                line3 = "You have successfully answered "+correct+" out of "+quizCounter*10+" quiz questions! Good job!";
+                line3 = line3 + "(" +value_success+"%).";
+            }
+            else
+            {
+                line3 = "You have answered "+correct+" out of "+quizCounter*10+" quiz questions! Keep working!";
+                line3 = line3 + "(" +value_success+"%).";
+            }
+
         }
         else
         {
-            line3 = "You have not participated in any quizes yet! Try some, your stats will be ready by then!!";
+            line3 = "Oh No!! We are not ready with the stats yet! Why don't you take some quizes. We will be ready by then.";
         }
 
         stat_success.setText(line3);

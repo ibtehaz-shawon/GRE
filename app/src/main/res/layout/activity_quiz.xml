@@ -90,31 +90,31 @@
 
     </ScrollView>
 
-
-    <LinearLayout
+    <ScrollView
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:orientation="vertical"
-        android:gravity="bottom">
+        android:layout_height="wrap_content">
 
-        <TextView
+        <LinearLayout
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="1 out of 10"
-            android:textSize="25dp"
-            android:id="@+id/quiz_title"
-            android:gravity="center"
-            android:textColor="#FF8C00"
-            android:layout_marginBottom="25dp"
-            />
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:gravity="bottom">
 
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Next"
-            android:textSize="20dp"
-            android:background="#ACB3BF"
-            android:textColor="#000"
-            android:id="@+id/quiz_next"/>
-    </LinearLayout>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="1 out of 10"
+                android:textSize="25dp"
+                android:id="@+id/quiz_title"
+                android:gravity="center"
+                android:textColor="#FF8C00"
+                />
+
+            <ImageButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/check"
+                android:id="@+id/quiz_next"/>
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>

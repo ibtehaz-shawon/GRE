@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 public class AboutUs extends AppCompatActivity {
@@ -22,9 +23,9 @@ public class AboutUs extends AppCompatActivity {
         String line = "Built with "+emoticon+" at ZerothTech Inc.";
         footer.setText(line);
 
-        Button facebook = (Button) findViewById(R.id.facebook);
-        Button web = (Button)findViewById(R.id.web);
-        Button twitter = (Button)findViewById(R.id.twitter);
+        ImageButton facebook = (ImageButton) findViewById(R.id.facebook);
+        ImageButton web = (ImageButton)findViewById(R.id.web);
+        ImageButton twitter = (ImageButton)findViewById(R.id.twitter);
 
         facebook.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,8 +56,7 @@ public class AboutUs extends AppCompatActivity {
 
 
         TextView aboutUs = (TextView)findViewById(R.id.about_text);
-        String line2 = "We are bunch of pizza lover, caffeine addict ninja who are passionate about programming.\n" +
-                "It starts with an impossible idea & ends with this magnificent design";
+        String line2 = "We are caffeine addicted ninja programmer!";
         aboutUs.setText(line2);
 
 

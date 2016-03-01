@@ -8,11 +8,15 @@
         android:orderInCategory="100" app:showAsAction="always" />
 
     <item android:id="@+id/action_about"
-        android:title="Behind the scene"
+        android:title="About us"
         android:orderInCategory="200" app:showAsAction="never" />
 
     <item android:id="@+id/action_rate"
         android:title="Rate Us"
         android:orderInCategory="300" app:showAsAction="never" />
+
+    <item android:id="@+id/action_reset"
+        android:title="Reset"
+        android:orderInCategory="400" app:showAsAction="never" />
 
 </menu>

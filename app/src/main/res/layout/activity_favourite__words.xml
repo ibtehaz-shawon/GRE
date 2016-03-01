@@ -6,7 +6,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="com.zerothtech.www.gre.Favourite_Words"
     android:orientation="vertical"
-    android:background="@drawable/green_black_background" >
+    android:background="@drawable/green_blackboard" >
 
 
     <TextView
@@ -54,9 +54,9 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="0.4"
-            android:textColor="#483D8B"
+            android:textColor="#fff"
             android:alpha="0"
-            android:background="@drawable/curved_textview"
+            android:background="@drawable/green_black_background"
             android:layout_centerHorizontal="true"
             android:gravity="center"
             android:textSize="25dp"

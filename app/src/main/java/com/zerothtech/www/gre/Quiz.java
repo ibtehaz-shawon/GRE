@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
@@ -30,7 +31,7 @@ public class Quiz extends AppCompatActivity {
     private static String []word,answer;
     TextView title, post, scoreCard;
     RadioButton one,two, three, four;
-    Button next;
+    ImageButton next;
     int correct = 0;
     int index = 0;
     int counter = 0;
@@ -65,7 +66,7 @@ public class Quiz extends AppCompatActivity {
             two = (RadioButton) findViewById(R.id.two);
             three = (RadioButton) findViewById(R.id.three);
             four = (RadioButton) findViewById(R.id.four);
-            next = (Button) findViewById(R.id.quiz_next);
+            next = (ImageButton) findViewById(R.id.quiz_next);
             rg = (RadioGroup) findViewById(R.id.quiz_radioGroup);
 
             index = 0;

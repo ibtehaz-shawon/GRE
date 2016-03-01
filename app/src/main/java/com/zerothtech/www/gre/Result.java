@@ -29,19 +29,17 @@ public class Result extends AppCompatActivity {
         int totalCorrect = getCorrect(this);
         int totalQuizTaken = getQuizCounter(this);
 
-        int percentage = (int)((totalCorrect / (totalQuizTaken * 10)) * 100);
-        double percentage2 = 0.0;
+        double percentage = (totalCorrect / (totalQuizTaken * 10.0)) * 100;
+        String value_success = new DecimalFormat("##.##").format(percentage);
+
         String line2 = "";
         if(percentage == 0)
         {
-            DecimalFormat df = new DecimalFormat("###.##");
-            percentage2 = (int)((totalCorrect / (totalQuizTaken * 10)) * 100);
-            percentage2 = Double.valueOf(df.format(percentage2));
-            line2 = "Success Percentage "+percentage2+"%";
+            line2 = "Success Percentage "+value_success+"%";
         }
         else
         {
-            line2 = "Success Percentage "+percentage+"%";
+            line2 = "Success Percentage "+value_success+"%";
         }
 
         totalResult.setText(line2);
