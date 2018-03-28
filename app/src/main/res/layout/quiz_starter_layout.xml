@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark">
+
+    <include layout="@layout/default_action_bar"/>
+    <!--might need to add the top toolbar here-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/margin_16"
+        android:background="@color/textColorWhite"
+        android:orientation="vertical"
+        >
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Hello"
+            android:textAlignment="center"
+            android:textSize="@dimen/margin_32"
+            android:textColor="@color/primaryText"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/margin_16"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.3"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz_starting_text"
+            android:textAlignment="center"
+            android:textSize="@dimen/margin_24"
+            android:textColor="@color/primaryText"
+            android:fontFamily="serif"
+            android:textStyle="normal"
+            android:layout_margin="@dimen/margin_16"
+            android:justificationMode="inter_word"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_16"
+            android:layout_marginRight="@dimen/margin_16"
+            android:paddingTop="@dimen/margin_8"
+            android:paddingBottom="@dimen/margin_8"
+            android:text="@string/start_quiz"
+            android:textStyle="normal"
+            android:textColor="@color/textColorWhite"
+            android:textSize="@dimen/margin_24"
+            android:fontFamily="serif"
+            android:background="@color/colorAccent"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+</LinearLayout>

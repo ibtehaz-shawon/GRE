@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:layout_margin="@dimen/value_16"
+        android:layout_margin="@dimen/margin_16"
         android:background="#ffffff"
         >
         <TextView
@@ -21,15 +21,15 @@
             android:layout_height="wrap_content"
             android:text="@string/app_name"
             android:textAlignment="center"
-            android:textSize="@dimen/value_56"
+            android:textSize="@dimen/margin_56"
             android:textColor="@color/primaryText"
             android:maxLines="1"
             android:ellipsize="end"
             android:fontFamily="serif-monospace"
             android:textStyle="bold"
             android:textAllCaps="true"
-            android:layout_marginTop="@dimen/value_40"
-            android:layout_marginBottom="@dimen/value_40"
+            android:layout_marginTop="@dimen/margin_40"
+            android:layout_marginBottom="@dimen/margin_40"
             />
 
         <Space
@@ -42,8 +42,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:layout_marginTop="@dimen/value_40"
-            android:layout_marginBottom="@dimen/value_56"
+            android:layout_marginTop="@dimen/margin_40"
+            android:layout_marginBottom="@dimen/margin_56"
             >
 
             <Button
@@ -51,17 +51,17 @@
                 android:layout_height="wrap_content"
                 android:text="@string/words"
                 android:textAllCaps="true"
-                android:textSize="@dimen/value_24"
+                android:textSize="@dimen/margin_24"
                 android:textAlignment="center"
                 android:fontFamily="serif"
                 android:textStyle="normal"
-                android:padding="@dimen/value_16"
+                android:padding="@dimen/margin_16"
                 android:layout_gravity="bottom"
                 android:textColor="@color/primaryText"
                 android:background="@color/buttonLimeColor"
-                android:layout_marginLeft="@dimen/value_16"
-                android:layout_marginRight="@dimen/value_16"
-                android:layout_marginBottom="@dimen/value_16"
+                android:layout_marginLeft="@dimen/margin_16"
+                android:layout_marginRight="@dimen/margin_16"
+                android:layout_marginBottom="@dimen/margin_16"
                 />
 
             <Button
@@ -69,17 +69,17 @@
                 android:layout_height="wrap_content"
                 android:text="@string/fav"
                 android:textAllCaps="true"
-                android:textSize="@dimen/value_24"
+                android:textSize="@dimen/margin_24"
                 android:textAlignment="center"
                 android:fontFamily="serif"
                 android:textStyle="normal"
-                android:padding="@dimen/value_16"
+                android:padding="@dimen/margin_16"
                 android:layout_gravity="bottom"
                 android:textColor="@color/primaryText"
                 android:background="@color/buttonLimeColor"
-                android:layout_marginLeft="@dimen/value_16"
-                android:layout_marginRight="@dimen/value_16"
-                android:layout_marginBottom="@dimen/value_16"
+                android:layout_marginLeft="@dimen/margin_16"
+                android:layout_marginRight="@dimen/margin_16"
+                android:layout_marginBottom="@dimen/margin_16"
                 />
 
             <Button
@@ -87,17 +87,17 @@
                 android:layout_height="wrap_content"
                 android:text="@string/test"
                 android:textAllCaps="true"
-                android:textSize="@dimen/value_24"
+                android:textSize="@dimen/margin_24"
                 android:textAlignment="center"
                 android:fontFamily="serif"
                 android:textStyle="normal"
-                android:padding="@dimen/value_16"
+                android:padding="@dimen/margin_16"
                 android:layout_gravity="bottom"
                 android:textColor="@color/primaryText"
                 android:background="@color/buttonLimeColor"
-                android:layout_marginLeft="@dimen/value_16"
-                android:layout_marginRight="@dimen/value_16"
-                android:layout_marginBottom="@dimen/value_16"
+                android:layout_marginLeft="@dimen/margin_16"
+                android:layout_marginRight="@dimen/margin_16"
+                android:layout_marginBottom="@dimen/margin_16"
                 />
 
 

@@ -6,6 +6,15 @@
     android:orientation="horizontal"
     android:background="@color/colorPrimary"
     >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_arrow_back"
+        android:paddingLeft="@dimen/margin_16"
+        android:visibility="gone"
+        />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -13,10 +22,10 @@
         android:textSize="36dp"
         android:gravity="left"
         android:textColor="@color/textColorWhite"
-        android:paddingTop="@dimen/value_8"
-        android:paddingBottom="@dimen/value_8"
-        android:paddingRight="@dimen/value_8"
-        android:paddingLeft="@dimen/value_16"
+        android:paddingTop="@dimen/margin_8"
+        android:paddingBottom="@dimen/margin_8"
+        android:paddingRight="@dimen/margin_8"
+        android:paddingLeft="@dimen/margin_16"
         android:textStyle="bold"
         android:fontFamily="serif-monospace"
         />
