@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    >
+    <include layout="@layout/default_action_bar"/>
+    <!--might need to add the top toolbar here-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/value_16"
+        android:background="#ffffff"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textAlignment="center"
+            android:textSize="@dimen/value_56"
+            android:textColor="@color/primaryText"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="serif-monospace"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:layout_marginTop="@dimen/value_40"
+            android:layout_marginBottom="@dimen/value_40"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/value_40"
+            android:layout_marginBottom="@dimen/value_56"
+            >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/words"
+                android:textAllCaps="true"
+                android:textSize="@dimen/value_24"
+                android:textAlignment="center"
+                android:fontFamily="serif"
+                android:textStyle="normal"
+                android:padding="@dimen/value_16"
+                android:layout_gravity="bottom"
+                android:textColor="@color/primaryText"
+                android:background="@color/buttonLimeColor"
+                android:layout_marginLeft="@dimen/value_16"
+                android:layout_marginRight="@dimen/value_16"
+                android:layout_marginBottom="@dimen/value_16"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fav"
+                android:textAllCaps="true"
+                android:textSize="@dimen/value_24"
+                android:textAlignment="center"
+                android:fontFamily="serif"
+                android:textStyle="normal"
+                android:padding="@dimen/value_16"
+                android:layout_gravity="bottom"
+                android:textColor="@color/primaryText"
+                android:background="@color/buttonLimeColor"
+                android:layout_marginLeft="@dimen/value_16"
+                android:layout_marginRight="@dimen/value_16"
+                android:layout_marginBottom="@dimen/value_16"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/test"
+                android:textAllCaps="true"
+                android:textSize="@dimen/value_24"
+                android:textAlignment="center"
+                android:fontFamily="serif"
+                android:textStyle="normal"
+                android:padding="@dimen/value_16"
+                android:layout_gravity="bottom"
+                android:textColor="@color/primaryText"
+                android:background="@color/buttonLimeColor"
+                android:layout_marginLeft="@dimen/value_16"
+                android:layout_marginRight="@dimen/value_16"
+                android:layout_marginBottom="@dimen/value_16"
+                />
+
+
+        </LinearLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+</LinearLayout>

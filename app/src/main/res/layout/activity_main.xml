@@ -1,87 +1,18 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
-    android:orientation="vertical"
-    android:background="@drawable/green_blackboard"
-    android:layout_weight="1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="20dp"
-        android:orientation="vertical"
-        android:layout_margin="10dp"
-        android:gravity="center"
-        android:layout_weight="0.8"
-        >
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="80dp"
-            android:text="GRE "
-            android:textSize="70dp"
-            android:textColor="#ffffff"
-            android:gravity="center"
-            android:typeface="sans"/>
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="80dp"
-            android:text="App "
-            android:textSize="60dp"
-            android:textColor="#ffffff"
-            android:gravity="center"
-            android:typeface="serif"/>
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="180dp"
-        android:orientation="vertical"
-        android:layout_margin="10dp"
-        android:gravity="center"
-        android:layout_weight="0.8"
-        >
-
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Learn words"
-            android:textSize="20dp"
-            android:typeface="sans"
-            android:textColor="#ffffff"
-            android:background="@drawable/greenblackbutton"
-            android:id="@+id/words"
-            android:layout_marginBottom="20dp"
-            android:focusable="true" />
-
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Favorite words"
-            android:id="@+id/starred"
-            android:background="@drawable/greenblackbutton"
-            android:textSize="20dp"
-            android:textColor="#ffffff"
-            android:typeface="sans"
-            android:layout_marginBottom="20dp"
-            />
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Take Test"
-            android:textSize="20dp"
-            android:textColor="#ffffff"
-            android:typeface="sans"
-            android:background="@drawable/greenblackbutton"
-            android:id="@+id/quiz"
-            android:layout_marginBottom="20dp"
-            />
-
-
-
-    </LinearLayout>
-
-</LinearLayout>
+</android.support.constraint.ConstraintLayout>
