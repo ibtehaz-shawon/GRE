@@ -17,4 +17,5 @@
     <string name="tag_meaning">Meaning: \n</string>
     <string name="tag_word">Word: \n</string>
     <string name="error_message">An Error Occurred!</string>
+    <string name="end">You are on the beginning of the list. Swipe Right to read more.</string>
 </resources>

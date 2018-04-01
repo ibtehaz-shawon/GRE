@@ -2,6 +2,7 @@ package com.zerothtech.www.gre.utility;
 
 import android.content.Context;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.zerothtech.www.gre.R;
 
@@ -72,5 +73,17 @@ public class Utility {
         } finally {
             return words;
         }
+    }
+
+
+    /**
+     * This function will show Toast msg on screen whenever hit.
+     * @param context
+     * @param message
+     * @param length | is either 1 or 0; Toast function will generate Long Toast for 1 and short for 0
+     */
+    public void makeToast(Context context, String message, int length) {
+        if (length != 0 || length != 1) length = 1;
+        Toast.makeText(context, message, length).show();
     }
 }

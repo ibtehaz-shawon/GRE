@@ -1,5 +1,6 @@
 package com.zerothtech.www.gre.activity;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,6 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.zerothtech.www.gre.R;
+import com.zerothtech.www.gre.utility.SwipeTouchListener;
 import com.zerothtech.www.gre.utility.Utility;
 
 /**
@@ -18,10 +20,6 @@ import com.zerothtech.www.gre.utility.Utility;
  */
 public class WordActivity extends BaseActivity implements View.OnClickListener {
 
-    /**
-     *
-     * @param savedInstanceState
-     */
     private TextView txtWord, txtSynonym, txtTitleBar, txtWordCounter;
     private Context context;
     private ImageView imgBackBtn;
@@ -30,6 +28,10 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
     private String jsonString;
     private boolean isError;
 
+    /**
+     * on create view
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -59,9 +61,9 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
     /**
      * initializing the on click listener for each object
      */
+    @SuppressLint("SetTextI18n")
     private void initVal() {
         imgBackBtn.setOnClickListener(this);
-        llEntireView.setOnClickListener(this);
         txtTitleBar.setText(context.getString(R.string.words));
         imgBackBtn.setVisibility(View.VISIBLE);
         txtSynonym.setVisibility(View.GONE);
@@ -78,10 +80,13 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                     +" : "
                     +(counter + 1));
         }
+        //** this function implement and execute swipe LEFT and RIGHT on the go for Linear Layout.
+        swipeClickListener();
     }
 
+
     /**
-     *
+     * on click listener implementation
      * @param v
      */
     @Override
@@ -90,9 +95,6 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
             case R.id.img_back_btn:
                 finish();
                 break;
-            case R.id.ll_word_view:
-                if (!isError) linearViewChanger();
-                break;
         }
     }
 
@@ -100,10 +102,10 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
     /**
      * click handler for view change
      */
+    @SuppressLint("SetTextI18n")
     private void linearViewChanger() {
         if (txtSynonym.getVisibility() == View.VISIBLE) {
             txtSynonym.setVisibility(View.GONE);
-
              String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
             if (tempWord == null) {
                 txtWord.setText(context.getString(R.string.error_message));
@@ -125,7 +127,72 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
             } else {
                 txtSynonym.setText(context.getString(R.string.tag_meaning) + tempWord);
             }
-            counter++;
         }
+    }
+
+
+    /**
+     * Implement custom left-right swipe from @{@link SwipeTouchListener}
+     */
+    @SuppressLint("ClickableViewAccessibility")
+    private void swipeClickListener() {
+        llEntireView.setOnTouchListener(new SwipeTouchListener(context) {
+            /**
+             * this function will show the prev word of the list {Swipping Left}
+             */
+            @SuppressLint("SetTextI18n")
+            public void onSwipeLeft() {
+                //** go to new word
+                if (isError) return;
+                counter++;
+                if (txtSynonym.getVisibility() == View.VISIBLE) {
+                    txtSynonym.setVisibility(View.GONE);
+                }
+                String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
+                if (tempWord == null) {
+                    txtWord.setText(context.getString(R.string.error_message));
+                    txtWordCounter.setText("");
+                    isError = true;
+                } else {
+                    txtWord.setText(context.getString(R.string.tag_word)+ tempWord);
+                    txtWordCounter.setText(context.getString(R.string.words)
+                            +" : "
+                            +(counter + 1));
+                }
+            }
+
+            /**
+             * this function will show the prev word of the list {Swipping Left}
+             */
+            @SuppressLint("SetTextI18n")
+            public void onSwipeRight() {
+                if (isError) return;
+                if (counter != 0) counter--;
+                else {
+                    new Utility().makeToast(context, context.getString(R.string.end), 1);
+                }
+                if (txtSynonym.getVisibility() == View.VISIBLE) {
+                    txtSynonym.setVisibility(View.GONE);
+                }
+                String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
+                if (tempWord == null) {
+                    txtWord.setText(context.getString(R.string.error_message));
+                    txtWordCounter.setText("");
+                    isError = true;
+                } else {
+                    txtWord.setText(context.getString(R.string.tag_word)+ tempWord);
+                    txtWordCounter.setText(context.getString(R.string.words)
+                            +" : "
+                            +(counter + 1));
+                }
+            }
+
+            /**
+             * handles the on click listener here
+             */
+            public void onClick() {
+                if (!isError) linearViewChanger();
+            }
+        });
     }
 }
