@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="@color/textColorWhite"
+        android:background="@color/colorWhite"
         android:layout_margin="@dimen/margin_16"
         android:gravity="center"
         >

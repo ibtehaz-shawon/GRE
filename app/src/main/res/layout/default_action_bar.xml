@@ -21,7 +21,7 @@
         android:text="@string/app_name"
         android:textSize="36dp"
         android:gravity="left"
-        android:textColor="@color/textColorWhite"
+        android:textColor="@color/colorWhite"
         android:paddingTop="@dimen/margin_8"
         android:paddingBottom="@dimen/margin_8"
         android:paddingRight="@dimen/margin_8"
