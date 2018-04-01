@@ -12,4 +12,9 @@
         Once the quiz begins, you cannot leave. Leaving the quiz will terminate the quiz.
     </string>
     <string name="start_quiz">Start Quiz</string>
+    <string name="word_filename">WordData.json</string>
+    <string name="logcat_tag">_Logcat</string>
+    <string name="tag_meaning">Meaning: \n</string>
+    <string name="tag_word">Word: \n</string>
+    <string name="error_message">An Error Occurred!</string>
 </resources>

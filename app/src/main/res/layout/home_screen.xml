@@ -47,6 +47,7 @@
             >
 
             <Button
+                android:id="@+id/btn_words"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/words"
@@ -65,6 +66,7 @@
                 />
 
             <Button
+                android:id="@+id/btn_fav"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/fav"
@@ -83,6 +85,7 @@
                 />
 
             <Button
+                android:id="@+id/btn_tests"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/test"

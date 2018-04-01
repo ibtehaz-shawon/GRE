@@ -10,6 +10,7 @@
     <!--might need to add the top toolbar here-->
 
     <LinearLayout
+        android:id="@+id/ll_word_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -24,6 +25,7 @@
             />
 
         <TextView
+            android:id="@+id/txt_word"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/words"
@@ -42,6 +44,7 @@
             />
 
         <TextView
+            android:id="@+id/txt_synonym"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/syn"
@@ -60,6 +63,7 @@
 
         <!--Word Counter-->
         <TextView
+            android:id="@+id/txt_word_counter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/word_counter"
