@@ -147,6 +147,10 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                 //** go to new word
                 if (isError) return;
                 counter++;
+                if (counter == 1502) {
+                    new Utility().makeToast(context, context.getString(R.string.other_end), 1,0);
+                    return;
+                }
                 if (txtSynonym.getVisibility() == View.VISIBLE) {
                     txtSynonym.setVisibility(View.GONE);
                 }
@@ -172,7 +176,8 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                 if (isError) return;
                 if (counter != 0) counter--;
                 else {
-                    new Utility().makeToast(context, context.getString(R.string.end), 1,0);
+                    new Utility().makeToast(context, context.getString(R.string.end), 1,1);
+                    return;
                 }
                 if (txtSynonym.getVisibility() == View.VISIBLE) {
                     txtSynonym.setVisibility(View.GONE);

@@ -18,4 +18,5 @@
     <string name="tag_word">Word: \n</string>
     <string name="error_message">An Error Occurred!</string>
     <string name="end">You are on the beginning of the list. Swipe Right to read more.</string>
+    <string name="other_end">Congratulations! You\'ve done it.</string>
 </resources>
