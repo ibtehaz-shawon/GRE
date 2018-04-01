@@ -109,6 +109,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
              String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
             if (tempWord == null) {
                 txtWord.setText(context.getString(R.string.error_message));
+                new Utility().makeToast(context, context.getString(R.string.error_message), 1,3);
                 txtWordCounter.setText("");
                 isError = true;
             } else {
@@ -122,6 +123,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
             String tempWord = new Utility().getWordsFromAsset(jsonString, counter, false);
             if (tempWord == null) {
                 txtSynonym.setText(context.getString(R.string.error_message));
+                new Utility().makeToast(context, context.getString(R.string.error_message), 1,3);
                 txtWordCounter.setText("");
                 isError = true;
             } else {
@@ -151,6 +153,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                 String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
                 if (tempWord == null) {
                     txtWord.setText(context.getString(R.string.error_message));
+                    new Utility().makeToast(context, context.getString(R.string.error_message), 1,3);
                     txtWordCounter.setText("");
                     isError = true;
                 } else {
@@ -169,7 +172,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                 if (isError) return;
                 if (counter != 0) counter--;
                 else {
-                    new Utility().makeToast(context, context.getString(R.string.end), 1);
+                    new Utility().makeToast(context, context.getString(R.string.end), 1,0);
                 }
                 if (txtSynonym.getVisibility() == View.VISIBLE) {
                     txtSynonym.setVisibility(View.GONE);
@@ -177,6 +180,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                 String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
                 if (tempWord == null) {
                     txtWord.setText(context.getString(R.string.error_message));
+                    new Utility().makeToast(context, context.getString(R.string.error_message), 1,3);
                     txtWordCounter.setText("");
                     isError = true;
                 } else {

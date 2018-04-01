@@ -4,6 +4,7 @@ import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.valdesekamdem.library.mdtoast.MDToast;
 import com.zerothtech.www.gre.R;
 
 import org.json.JSONArray;
@@ -81,9 +82,12 @@ public class Utility {
      * @param context
      * @param message
      * @param length | is either 1 or 0; Toast function will generate Long Toast for 1 and short for 0
+     * @param type is 0, 1, 2 ,3. O is Info, 1 is success, 2 is warning, 3 is error
+     * @see MDToast | custom Toast class
      */
-    public void makeToast(Context context, String message, int length) {
-        if (length != 0 || length != 1) length = 1;
-        Toast.makeText(context, message, length).show();
+    public void makeToast(Context context, String message, int length, int type) {
+        if (length <= 1 && length >= 0) length = 1;
+        if (type >= 0 && type <= 3) type = 0;
+        MDToast.makeText(context, message, length, type).show();
     }
 }
