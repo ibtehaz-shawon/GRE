@@ -74,6 +74,7 @@ public class SwipeTouchListener implements View.OnTouchListener {
          */
         @Override
         public boolean onDoubleTap(MotionEvent e) {
+            onDoubleClick();
             return super.onDoubleTap(e);
         }
 
@@ -83,6 +84,7 @@ public class SwipeTouchListener implements View.OnTouchListener {
          */
         @Override
         public void onLongPress(MotionEvent e) {
+            onLongPressEvent();
             super.onLongPress(e);
         }
 
@@ -140,6 +142,11 @@ public class SwipeTouchListener implements View.OnTouchListener {
     }
 
     public void onClick() {
+    }
 
+    public void onDoubleClick() {
+    }
+
+    public void onLongPressEvent(){
     }
 }

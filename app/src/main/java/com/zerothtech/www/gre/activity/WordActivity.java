@@ -13,6 +13,13 @@ import com.zerothtech.www.gre.R;
 import com.zerothtech.www.gre.utility.SwipeTouchListener;
 import com.zerothtech.www.gre.utility.Utility;
 
+
+/**
+ * TODO: 1) Keeping track of running word.
+ * TODO: 2) Animation Fav
+ * TODO: 3) Keeping the favourites data in sqlite
+ */
+
 /**
  * Created by Ibtehaz Shawon on
  * 3/28/18 - 8:22 PM
@@ -20,7 +27,7 @@ import com.zerothtech.www.gre.utility.Utility;
  */
 public class WordActivity extends BaseActivity implements View.OnClickListener {
 
-    private TextView txtWord, txtSynonym, txtTitleBar, txtWordCounter;
+    private TextView txtWord, txtMeaning, txtTitleBar, txtWordCounter;
     private Context context;
     private ImageView imgBackBtn;
     private LinearLayout llEntireView;
@@ -50,7 +57,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
         context = this;
         isError = false;
         txtWord = (TextView)findViewById(R.id.txt_word);
-        txtSynonym = (TextView)findViewById(R.id.txt_synonym);
+        txtMeaning = (TextView)findViewById(R.id.txt_meaning);
         txtTitleBar = (TextView)findViewById(R.id.txt_app_title);
         txtWordCounter = (TextView)findViewById(R.id.txt_word_counter);
         imgBackBtn = (ImageView) findViewById(R.id.img_back_btn);
@@ -66,7 +73,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
         imgBackBtn.setOnClickListener(this);
         txtTitleBar.setText(context.getString(R.string.words));
         imgBackBtn.setVisibility(View.VISIBLE);
-        txtSynonym.setVisibility(View.GONE);
+        txtMeaning.setVisibility(View.GONE);
         counter = 0;
         jsonString = new Utility().jsonLoader(context, context.getString(R.string.word_filename));
         String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
@@ -104,8 +111,8 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
      */
     @SuppressLint("SetTextI18n")
     private void linearViewChanger() {
-        if (txtSynonym.getVisibility() == View.VISIBLE) {
-            txtSynonym.setVisibility(View.GONE);
+        if (txtMeaning.getVisibility() == View.VISIBLE) {
+            txtMeaning.setVisibility(View.GONE);
              String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
             if (tempWord == null) {
                 txtWord.setText(context.getString(R.string.error_message));
@@ -118,16 +125,16 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                         +" : "
                         +(counter + 1));
             }
-        } else if (txtSynonym.getVisibility() == View.GONE) {
-            txtSynonym.setVisibility(View.VISIBLE);
+        } else if (txtMeaning.getVisibility() == View.GONE) {
+            txtMeaning.setVisibility(View.VISIBLE);
             String tempWord = new Utility().getWordsFromAsset(jsonString, counter, false);
             if (tempWord == null) {
-                txtSynonym.setText(context.getString(R.string.error_message));
+                txtMeaning.setText(context.getString(R.string.error_message));
                 new Utility().makeToast(context, context.getString(R.string.error_message), 1,3);
                 txtWordCounter.setText("");
                 isError = true;
             } else {
-                txtSynonym.setText(context.getString(R.string.tag_meaning) + tempWord);
+                txtMeaning.setText(context.getString(R.string.tag_meaning) + tempWord);
             }
         }
     }
@@ -151,8 +158,8 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                     new Utility().makeToast(context, context.getString(R.string.other_end), 1,0);
                     return;
                 }
-                if (txtSynonym.getVisibility() == View.VISIBLE) {
-                    txtSynonym.setVisibility(View.GONE);
+                if (txtMeaning.getVisibility() == View.VISIBLE) {
+                    txtMeaning.setVisibility(View.GONE);
                 }
                 String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
                 if (tempWord == null) {
@@ -179,8 +186,8 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                     new Utility().makeToast(context, context.getString(R.string.end), 1,1);
                     return;
                 }
-                if (txtSynonym.getVisibility() == View.VISIBLE) {
-                    txtSynonym.setVisibility(View.GONE);
+                if (txtMeaning.getVisibility() == View.VISIBLE) {
+                    txtMeaning.setVisibility(View.GONE);
                 }
                 String tempWord = new Utility().getWordsFromAsset(jsonString, counter, true);
                 if (tempWord == null) {
@@ -201,6 +208,15 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
              */
             public void onClick() {
                 if (!isError) linearViewChanger();
+            }
+
+            /**
+             * handles the double click to mark a word as favourite
+             */
+            public void onLongPressEvent() {
+                String word = new Utility().getWordsFromAsset(jsonString, counter, true);
+                String meaning = new Utility().getWordsFromAsset(jsonString, counter, false);
+                new Utility().makeToast(context, "Word : "+word + " >> meaning : "+meaning, 1, 0);
             }
         });
     }
