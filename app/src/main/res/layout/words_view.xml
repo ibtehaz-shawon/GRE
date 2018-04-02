@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:background="@color/colorPrimaryDark"
-    >
+    android:background="@color/colorPrimaryDark">
     <include layout="@layout/default_action_bar"/>
     <!--might need to add the top toolbar here-->
 
@@ -18,11 +17,37 @@
         android:layout_margin="@dimen/margin_16"
         android:gravity="center"
         >
-        <Space
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            />
+            android:orientation="horizontal"
+            >
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="@dimen/margin_8"
+                android:layout_marginBottom="@dimen/margin_8"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_full_heart"
+                />
+
+            <com.jackandphantom.androidlikebutton.AndroidLikeButton
+                android:id="@+id/img_fav_btn"
+                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                app:like_icon="@drawable/ic_full_heart"
+                app:unlike_icon="@drawable/ic_no_heart"
+                app:liked="false"
+                />
+
+
+        </LinearLayout>
 
         <TextView
             android:id="@+id/txt_word"

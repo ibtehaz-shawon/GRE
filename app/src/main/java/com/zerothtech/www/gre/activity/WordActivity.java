@@ -2,16 +2,20 @@ package com.zerothtech.www.gre.activity;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import android.support.annotation.Nullable;;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.jackandphantom.androidlikebutton.AndroidLikeButton;
 import com.zerothtech.www.gre.R;
 import com.zerothtech.www.gre.utility.SwipeTouchListener;
 import com.zerothtech.www.gre.utility.Utility;
+
 
 
 /**
@@ -34,6 +38,8 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
     private static int counter;
     private String jsonString;
     private boolean isError;
+    private AndroidLikeButton imgFavWord;
+    private boolean isLiked;
 
     /**
      * on create view
@@ -56,12 +62,14 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
     private void init() {
         context = this;
         isError = false;
+        isLiked = false;
         txtWord = (TextView)findViewById(R.id.txt_word);
         txtMeaning = (TextView)findViewById(R.id.txt_meaning);
         txtTitleBar = (TextView)findViewById(R.id.txt_app_title);
         txtWordCounter = (TextView)findViewById(R.id.txt_word_counter);
         imgBackBtn = (ImageView) findViewById(R.id.img_back_btn);
         llEntireView = findViewById(R.id.ll_word_view);
+        imgFavWord = (AndroidLikeButton)findViewById(R.id.img_fav_btn);
     }
 
 
@@ -71,6 +79,7 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
     @SuppressLint("SetTextI18n")
     private void initVal() {
         imgBackBtn.setOnClickListener(this);
+        imgFavWord.setOnClickListener(this);
         txtTitleBar.setText(context.getString(R.string.words));
         imgBackBtn.setVisibility(View.VISIBLE);
         txtMeaning.setVisibility(View.GONE);
@@ -101,6 +110,9 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
         switch (v.getId()) {
             case R.id.img_back_btn:
                 finish();
+                break;
+            case R.id.img_fav_btn:
+                favouriteWord();
                 break;
         }
     }
@@ -219,5 +231,21 @@ public class WordActivity extends BaseActivity implements View.OnClickListener {
                 new Utility().makeToast(context, "Word : "+word + " >> meaning : "+meaning, 1, 0);
             }
         });
+    }
+
+
+    /**
+     * this function handles marking a word as fav
+     */
+    private void favouriteWord() {
+        Bitmap icLikeBmp = BitmapFactory.decodeResource(getResources(), R.drawable.ic_full_heart);
+        Bitmap icDislikeBmp = BitmapFactory.decodeResource(getResources(), R.drawable.ic_no_heart);
+        if (isLiked) {
+            imgFavWord.setLikeIcon(icDislikeBmp);
+            isLiked = false;
+        } else {
+            isLiked = true;
+            imgFavWord.setLikeIcon(icLikeBmp);
+        }
     }
 }
